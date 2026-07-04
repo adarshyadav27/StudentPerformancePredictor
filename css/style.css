@@ -1,0 +1,107 @@
+/* ==========================================================
+   AI-Powered Student Performance Predictor — Custom Styling
+   ========================================================== */
+
+:root {
+    --primary: #4338CA;
+    --primary-light: #6366F1;
+    --success: #16A34A;
+    --warning: #D97706;
+    --danger: #DC2626;
+    --bg-card: #FFFFFF;
+    --text-muted: #6B7280;
+}
+
+/* Page background */
+.stApp {
+    background: linear-gradient(180deg, #F5F7FF 0%, #FFFFFF 100%);
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background: linear-gradient(180deg, #4338CA 0%, #312E81 100%);
+}
+section[data-testid="stSidebar"] * {
+    color: #F1F5F9 !important;
+}
+section[data-testid="stSidebar"] .stRadio label {
+    font-size: 15px;
+}
+
+/* Metric cards */
+div[data-testid="stMetric"] {
+    background: var(--bg-card);
+    border: 1px solid #E5E7EB;
+    border-radius: 14px;
+    padding: 16px 18px;
+    box-shadow: 0 2px 10px rgba(67, 56, 202, 0.06);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+div[data-testid="stMetric"]:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(67, 56, 202, 0.12);
+}
+
+/* Custom card class (used via st.markdown) */
+.custom-card {
+    background: var(--bg-card);
+    border-radius: 16px;
+    padding: 22px 24px;
+    box-shadow: 0 2px 12px rgba(15, 23, 42, 0.06);
+    border: 1px solid #EEF0FA;
+    margin-bottom: 16px;
+}
+
+.badge {
+    display: inline-block;
+    padding: 4px 14px;
+    border-radius: 999px;
+    font-weight: 600;
+    font-size: 13px;
+}
+.badge-excellent { background: #DCFCE7; color: #166534; }
+.badge-good       { background: #DBEAFE; color: #1E40AF; }
+.badge-average    { background: #FEF9C3; color: #854D0E; }
+.badge-poor       { background: #FEE2E2; color: #991B1B; }
+
+.badge-low    { background: #DCFCE7; color: #166534; }
+.badge-medium { background: #FEF3C7; color: #92400E; }
+.badge-high   { background: #FEE2E2; color: #991B1B; }
+
+/* Buttons */
+.stButton > button {
+    border-radius: 10px;
+    background: var(--primary);
+    color: white;
+    font-weight: 600;
+    border: none;
+    padding: 0.5em 1.2em;
+    transition: background 0.15s ease, transform 0.1s ease;
+}
+.stButton > button:hover {
+    background: var(--primary-light);
+    transform: translateY(-1px);
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #1E1B4B;
+}
+
+/* Hide default streamlit footer/menu for a cleaner look */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+
+/* Progress bar accent */
+div[data-testid="stProgress"] > div > div {
+    background-color: var(--primary) !important;
+}
+
+/* Fade-in animation for main content */
+.main .block-container {
+    animation: fadeIn 0.4s ease-in;
+}
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: translateY(0); }
+}

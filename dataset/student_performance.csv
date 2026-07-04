@@ -1,0 +1,801 @@
+Student_ID,Name,Roll_Number,Gender,Age,Department,Semester,Study_Hours,Attendance,Assignments,Previous_GPA,Internal_Marks,Family_Income,Internet_Access,Sleep_Hours,Stress_Level,Extra_Curricular,Participation,Final_Grade
+STU0001,Student 1,R2020001,Male,22,Mechanical,8,2.0,82.5,79.2,8.31,56.3,Low,Yes,5.9,6,Yes,6.0,Average
+STU0002,Student 2,R2020002,Male,21,Civil,8,3.5,75.7,52.9,8.93,64.6,High,Yes,6.9,9,Yes,4.8,Good
+STU0003,Student 3,R2020003,Male,21,Civil,7,5.7,100.0,69.5,7.49,47.1,Medium,Yes,6.0,6,No,6.4,Excellent
+STU0004,Student 4,R2020004,Female,21,Computer Science,6,2.2,55.8,86.6,6.3,44.8,Medium,Yes,5.4,1,Yes,2.2,Poor
+STU0005,Student 5,R2020005,Male,20,Mechanical,1,5.7,87.5,85.5,7.23,74.9,High,Yes,6.8,1,Yes,3.8,Good
+STU0006,Student 6,R2020006,Female,20,Mechanical,1,4.6,76.9,82.0,7.96,53.3,Low,Yes,5.5,10,Yes,3.2,Good
+STU0007,Student 7,R2020007,Male,22,Electrical,7,2.6,88.4,71.8,6.45,72.5,High,Yes,7.9,4,No,8.7,Good
+STU0008,Student 8,R2020008,Female,18,Computer Science,1,1.6,63.7,76.9,5.38,94.2,Low,Yes,6.3,6,Yes,1.8,Average
+STU0009,Student 9,R2020009,Male,19,Civil,4,4.0,54.6,58.9,5.71,66.5,Medium,Yes,6.0,5,Yes,8.9,Average
+STU0010,Student 10,R2020010,Male,19,IT,8,2.6,80.4,55.2,6.13,62.9,High,Yes,8.2,1,Yes,9.9,Average
+STU0011,Student 11,R2020011,Female,21,Mechanical,4,4.0,72.9,84.7,5.41,73.0,Medium,No,5.4,1,No,4.3,Good
+STU0012,Student 12,R2020012,Male,19,Mechanical,7,5.9,85.4,95.5,10.0,60.1,High,No,6.3,7,Yes,8.6,Good
+STU0013,Student 13,R2020013,Female,18,Civil,3,5.5,100.0,83.5,6.79,62.9,Medium,No,4.2,4,No,4.5,Good
+STU0014,Student 14,R2020014,Female,20,Computer Science,8,2.4,80.0,54.5,6.0,78.2,Medium,Yes,6.2,1,No,3.2,Average
+STU0015,Student 15,R2020015,Female,20,Civil,3,4.0,80.7,84.1,6.55,74.1,Medium,No,4.2,4,Yes,8.1,Good
+STU0016,Student 16,R2020016,Male,19,Computer Science,2,4.3,83.4,61.7,7.2,65.9,High,Yes,5.1,1,Yes,6.9,Excellent
+STU0017,Student 17,R2020017,Male,19,Mechanical,2,4.9,100.0,83.6,8.48,79.3,High,Yes,7.3,2,Yes,5.0,Excellent
+STU0018,Student 18,R2020018,Male,22,IT,2,3.3,86.3,45.1,7.55,56.9,High,Yes,7.4,6,Yes,10.0,Good
+STU0019,Student 19,R2020019,Female,21,Electrical,2,0.4,80.6,65.1,8.11,53.1,Low,No,6.4,7,No,5.3,Poor
+STU0020,Student 20,R2020020,Female,19,IT,6,5.7,95.7,80.7,9.15,45.1,Low,Yes,8.7,5,Yes,4.6,Good
+STU0021,Student 21,R2020021,Male,21,Electrical,4,3.0,93.4,100.0,6.35,60.1,Low,No,7.1,1,No,7.9,Excellent
+STU0022,Student 22,R2020022,Female,19,Computer Science,4,5.2,79.8,46.5,8.66,55.8,Medium,No,9.0,3,No,3.7,Good
+STU0023,Student 23,R2020023,Male,21,IT,2,4.2,72.0,93.5,5.32,88.3,Medium,Yes,5.3,7,Yes,7.9,Good
+STU0024,Student 24,R2020024,Female,21,Computer Science,5,4.1,84.9,100.0,4.56,89.2,Low,Yes,7.1,8,No,2.9,Good
+STU0025,Student 25,R2020025,Female,18,Mechanical,1,5.1,46.4,38.2,6.9,56.2,Low,No,6.1,3,Yes,6.6,Average
+STU0026,Student 26,R2020026,Female,20,Electronics,7,6.0,100.0,69.9,7.32,69.9,Medium,No,8.5,9,No,4.4,Good
+STU0027,Student 27,R2020027,Male,22,Electronics,1,5.0,90.2,92.3,6.38,55.0,Low,Yes,8.1,6,No,4.4,Average
+STU0028,Student 28,R2020028,Male,22,Electrical,2,2.8,77.3,94.1,8.0,72.4,Medium,Yes,6.6,8,No,8.7,Average
+STU0029,Student 29,R2020029,Female,22,Electrical,7,4.1,91.8,82.1,7.07,99.1,Medium,Yes,7.0,5,No,8.9,Good
+STU0030,Student 30,R2020030,Female,19,IT,4,3.4,67.7,81.9,5.65,44.7,Low,Yes,5.8,4,No,6.7,Good
+STU0031,Student 31,R2020031,Male,21,Electrical,4,2.8,72.4,100.0,4.75,67.1,Low,Yes,7.7,6,No,2.6,Good
+STU0032,Student 32,R2020032,Female,20,Computer Science,5,4.4,71.2,99.6,7.29,67.5,Medium,Yes,7.5,3,Yes,3.9,Good
+STU0033,Student 33,R2020033,Female,22,Civil,6,4.6,84.9,75.0,6.45,84.1,Medium,Yes,6.4,5,Yes,6.8,Excellent
+STU0034,Student 34,R2020034,Male,22,Electrical,6,2.3,87.6,90.9,4.71,47.3,High,Yes,4.1,6,No,5.5,Average
+STU0035,Student 35,R2020035,Male,18,Electrical,5,0.9,77.2,80.8,6.96,34.0,Medium,Yes,6.4,3,No,10.0,Poor
+STU0036,Student 36,R2020036,Male,21,Civil,8,5.8,74.7,82.0,7.02,44.5,High,Yes,7.1,10,Yes,3.1,Average
+STU0037,Student 37,R2020037,Male,19,Electrical,3,2.7,81.0,73.3,6.71,74.2,Low,Yes,7.4,8,No,3.0,Good
+STU0038,Student 38,R2020038,Male,22,Electronics,6,5.6,84.6,69.6,8.17,51.9,Medium,Yes,6.2,7,Yes,4.7,Average
+STU0039,Student 39,R2020039,Male,18,Electrical,4,0.1,72.5,70.5,9.82,88.4,Medium,Yes,7.2,3,Yes,7.4,Average
+STU0040,Student 40,R2020040,Female,20,Mechanical,5,4.9,75.3,71.9,4.04,77.0,Low,No,6.7,8,No,7.1,Good
+STU0041,Student 41,R2020041,Male,19,Mechanical,5,2.8,86.0,63.6,4.65,40.6,Low,Yes,6.6,6,No,5.9,Poor
+STU0042,Student 42,R2020042,Male,18,IT,2,7.7,50.8,54.0,7.3,56.3,Low,Yes,6.8,9,No,1.1,Average
+STU0043,Student 43,R2020043,Male,18,Electrical,6,3.0,99.1,67.4,5.39,67.8,Low,Yes,6.9,9,No,7.0,Average
+STU0044,Student 44,R2020044,Male,20,Mechanical,6,0.0,83.1,70.9,8.23,61.2,Medium,Yes,8.1,6,No,10.0,Poor
+STU0045,Student 45,R2020045,Male,19,IT,5,4.4,88.8,52.8,8.49,70.1,Medium,Yes,6.0,7,No,7.9,Good
+STU0046,Student 46,R2020046,Male,21,IT,2,4.9,82.7,90.6,6.34,61.0,Medium,Yes,5.3,4,No,7.7,Excellent
+STU0047,Student 47,R2020047,Female,21,Electronics,3,6.1,83.0,73.3,7.42,58.9,Low,Yes,4.8,10,No,10.0,Good
+STU0048,Student 48,R2020048,Male,21,Mechanical,4,6.2,87.4,65.6,6.76,60.1,Low,Yes,5.9,7,No,6.1,Excellent
+STU0049,Student 49,R2020049,Female,22,Computer Science,5,5.9,69.8,87.8,3.98,61.6,Medium,Yes,7.3,1,No,6.9,Average
+STU0050,Student 50,R2020050,Male,22,Computer Science,1,2.7,90.7,64.9,6.15,71.7,Medium,Yes,6.5,6,Yes,6.0,Average
+STU0051,Student 51,R2020051,Female,22,IT,7,6.4,73.4,68.3,4.24,43.5,High,Yes,8.3,1,No,8.8,Poor
+STU0052,Student 52,R2020052,Male,19,IT,6,3.4,81.3,66.5,6.71,52.6,High,Yes,7.6,1,Yes,7.0,Average
+STU0053,Student 53,R2020053,Female,18,Computer Science,7,2.6,69.3,100.0,7.19,77.2,High,Yes,4.2,8,Yes,7.6,Average
+STU0054,Student 54,R2020054,Female,20,Civil,4,2.1,86.6,83.9,6.6,69.9,Medium,No,5.0,5,Yes,4.6,Poor
+STU0055,Student 55,R2020055,Female,21,Civil,5,6.1,68.6,89.2,6.53,59.7,Medium,No,6.8,7,No,5.3,Good
+STU0056,Student 56,R2020056,Male,19,Electrical,1,2.9,72.1,55.7,7.13,40.6,Medium,Yes,7.2,10,No,4.2,Poor
+STU0057,Student 57,R2020057,Female,19,Civil,5,2.2,85.1,72.6,8.05,70.8,Low,Yes,3.7,1,Yes,3.1,Good
+STU0058,Student 58,R2020058,Male,20,Civil,1,5.3,99.0,73.1,7.72,38.7,Medium,Yes,6.4,4,Yes,10.0,Good
+STU0059,Student 59,R2020059,Male,19,Electronics,5,1.7,59.4,99.8,6.08,50.8,Low,Yes,9.3,3,Yes,2.5,Average
+STU0060,Student 60,R2020060,Male,20,Computer Science,5,5.2,92.1,62.0,7.06,84.3,Medium,Yes,7.3,8,Yes,2.9,Good
+STU0061,Student 61,R2020061,Female,22,Electronics,7,4.2,70.5,45.7,6.64,70.4,Low,Yes,5.8,7,No,8.7,Poor
+STU0062,Student 62,R2020062,Female,20,Civil,4,5.8,77.3,37.1,8.69,86.7,High,Yes,4.2,6,Yes,7.7,Good
+STU0063,Student 63,R2020063,Female,19,Mechanical,2,3.2,61.4,100.0,6.15,54.8,Low,Yes,4.7,4,No,5.2,Average
+STU0064,Student 64,R2020064,Male,19,Civil,2,0.5,61.1,58.9,7.89,62.5,High,No,5.5,2,Yes,6.3,Average
+STU0065,Student 65,R2020065,Female,22,IT,2,3.8,71.0,82.0,7.66,46.3,Medium,Yes,7.2,1,Yes,8.8,Average
+STU0066,Student 66,R2020066,Female,20,Mechanical,6,6.5,87.6,73.0,8.46,42.6,Medium,Yes,5.6,2,No,7.1,Excellent
+STU0067,Student 67,R2020067,Female,20,Electronics,8,3.6,79.4,83.3,7.05,65.6,High,Yes,7.7,8,No,2.7,Good
+STU0068,Student 68,R2020068,Female,20,Civil,1,3.5,74.2,57.5,6.03,51.1,High,No,7.2,9,Yes,5.7,Average
+STU0069,Student 69,R2020069,Male,19,Civil,2,4.1,95.9,77.9,7.06,44.6,Medium,Yes,7.4,3,Yes,8.4,Good
+STU0070,Student 70,R2020070,Male,22,Electrical,6,4.3,83.7,72.2,6.47,59.6,Medium,Yes,6.7,10,Yes,4.8,Good
+STU0071,Student 71,R2020071,Female,21,Electrical,4,3.8,49.5,86.0,8.4,39.5,High,Yes,6.0,9,Yes,7.3,Average
+STU0072,Student 72,R2020072,Male,19,IT,4,1.7,90.2,84.8,6.87,92.7,Medium,Yes,5.2,3,Yes,8.3,Average
+STU0073,Student 73,R2020073,Female,20,Computer Science,1,4.9,100.0,100.0,4.85,58.7,Low,Yes,5.9,2,No,4.1,Good
+STU0074,Student 74,R2020074,Male,21,Electronics,3,3.7,59.2,53.6,7.79,42.7,Low,Yes,6.9,5,Yes,4.7,Average
+STU0075,Student 75,R2020075,Male,22,Electronics,6,3.2,44.1,51.2,7.99,76.8,Medium,Yes,7.0,6,No,5.4,Average
+STU0076,Student 76,R2020076,Male,21,Civil,1,3.6,78.4,78.1,4.35,61.3,Low,Yes,5.7,6,Yes,7.8,Average
+STU0077,Student 77,R2020077,Male,21,Computer Science,8,6.5,90.9,75.9,6.16,75.5,Medium,Yes,7.0,7,No,10.0,Excellent
+STU0078,Student 78,R2020078,Female,20,Computer Science,4,3.3,80.9,59.5,6.31,74.3,Medium,Yes,7.9,2,No,7.0,Poor
+STU0079,Student 79,R2020079,Male,21,Electronics,3,3.1,81.0,91.4,6.86,79.0,Medium,Yes,7.5,4,No,7.9,Excellent
+STU0080,Student 80,R2020080,Female,19,Electrical,2,5.9,77.5,72.4,8.15,74.8,High,Yes,4.6,2,No,4.7,Excellent
+STU0081,Student 81,R2020081,Female,19,Civil,6,4.0,94.4,83.2,6.52,76.6,Medium,Yes,3.1,6,No,4.3,Average
+STU0082,Student 82,R2020082,Female,22,Computer Science,8,1.1,99.6,63.5,6.01,62.7,Medium,Yes,7.7,9,No,7.3,Poor
+STU0083,Student 83,R2020083,Female,21,Civil,1,1.1,94.9,97.4,7.23,58.0,High,Yes,8.6,4,Yes,6.1,Average
+STU0084,Student 84,R2020084,Female,22,Computer Science,7,2.9,70.5,100.0,8.0,57.8,Medium,Yes,3.6,9,No,5.7,Good
+STU0085,Student 85,R2020085,Male,19,Civil,6,6.0,63.4,84.2,5.63,55.6,High,Yes,8.8,2,No,5.9,Good
+STU0086,Student 86,R2020086,Male,19,Computer Science,2,4.4,92.7,91.6,8.54,74.6,Medium,Yes,5.1,10,Yes,6.7,Average
+STU0087,Student 87,R2020087,Male,18,Computer Science,1,4.6,83.9,99.2,7.59,61.3,Medium,Yes,7.7,6,No,5.3,Excellent
+STU0088,Student 88,R2020088,Female,18,IT,6,1.6,94.3,95.1,9.06,34.7,Medium,Yes,7.8,1,No,6.1,Good
+STU0089,Student 89,R2020089,Male,19,Electronics,6,9.7,78.5,50.5,7.22,28.8,Medium,Yes,5.9,5,Yes,5.5,Excellent
+STU0090,Student 90,R2020090,Female,21,Electrical,5,2.6,74.1,49.6,6.87,50.2,High,Yes,5.2,10,No,4.0,Average
+STU0091,Student 91,R2020091,Male,18,IT,3,3.0,85.2,89.2,6.14,52.7,High,Yes,6.3,10,Yes,10.0,Average
+STU0092,Student 92,R2020092,Female,19,Electronics,1,1.8,68.3,64.2,8.16,60.6,Medium,Yes,8.0,4,Yes,3.7,Average
+STU0093,Student 93,R2020093,Male,21,Electronics,1,3.7,76.2,75.7,6.81,79.5,Low,Yes,9.2,9,No,4.4,Good
+STU0094,Student 94,R2020094,Male,18,Computer Science,3,4.5,70.5,50.7,7.73,48.5,Medium,Yes,5.6,1,No,5.0,Average
+STU0095,Student 95,R2020095,Female,19,Mechanical,6,3.6,56.5,52.5,5.27,64.8,Medium,Yes,6.6,10,No,7.1,Poor
+STU0096,Student 96,R2020096,Male,19,IT,6,6.9,73.7,94.7,5.42,57.0,Low,No,4.8,8,No,7.5,Average
+STU0097,Student 97,R2020097,Male,19,Computer Science,5,4.9,86.2,58.9,5.84,54.4,High,Yes,6.2,3,Yes,10.0,Average
+STU0098,Student 98,R2020098,Male,20,IT,3,7.0,100.0,75.4,3.79,78.3,Medium,Yes,3.7,10,No,7.1,Excellent
+STU0099,Student 99,R2020099,Male,18,Electrical,3,5.0,65.4,75.4,6.99,81.3,Low,No,7.1,4,No,5.0,Good
+STU0100,Student 100,R2020100,Female,18,Electrical,5,3.9,63.3,51.3,7.05,68.6,High,No,5.3,6,Yes,6.1,Average
+STU0101,Student 101,R2020101,Male,20,Electrical,3,3.0,69.6,99.6,6.87,42.6,Medium,Yes,7.6,5,Yes,4.8,Average
+STU0102,Student 102,R2020102,Female,21,Computer Science,4,1.7,86.8,64.0,6.09,72.4,High,Yes,5.3,5,No,3.3,Average
+STU0103,Student 103,R2020103,Male,21,IT,6,3.3,61.7,71.5,5.64,70.8,Medium,Yes,8.1,5,Yes,6.0,Average
+STU0104,Student 104,R2020104,Male,21,Mechanical,7,0.9,77.9,69.2,7.72,81.4,Medium,No,7.1,10,No,4.7,Average
+STU0105,Student 105,R2020105,Female,21,Electrical,1,3.8,90.9,96.2,8.58,69.1,Medium,Yes,7.5,8,No,4.8,Good
+STU0106,Student 106,R2020106,Male,20,Computer Science,5,3.8,79.3,75.2,6.29,53.5,High,No,3.8,3,No,5.1,Average
+STU0107,Student 107,R2020107,Male,19,IT,7,5.8,67.4,53.7,8.95,60.2,Medium,Yes,6.2,9,No,7.9,Average
+STU0108,Student 108,R2020108,Male,21,Civil,3,4.1,81.8,97.9,7.66,73.1,Low,Yes,7.8,8,No,5.5,Average
+STU0109,Student 109,R2020109,Female,19,Computer Science,2,3.6,74.1,79.6,8.06,77.9,High,Yes,5.8,9,No,3.5,Good
+STU0110,Student 110,R2020110,Female,21,Mechanical,8,4.6,78.4,73.6,6.89,77.2,Low,Yes,7.2,8,Yes,9.0,Average
+STU0111,Student 111,R2020111,Female,20,IT,3,5.8,80.9,57.1,6.7,84.9,Medium,No,6.8,4,Yes,8.6,Good
+STU0112,Student 112,R2020112,Male,19,Electrical,8,4.8,94.6,60.2,8.93,89.6,High,Yes,9.7,1,Yes,7.7,Excellent
+STU0113,Student 113,R2020113,Female,20,IT,8,2.1,78.1,98.5,5.37,54.8,Low,Yes,7.3,6,No,8.3,Average
+STU0114,Student 114,R2020114,Male,21,Electrical,6,3.0,82.2,86.0,5.71,64.7,Medium,Yes,5.7,3,No,8.2,Average
+STU0115,Student 115,R2020115,Female,21,Mechanical,8,2.4,73.8,61.8,8.02,56.3,High,Yes,6.3,9,No,4.0,Good
+STU0116,Student 116,R2020116,Female,20,IT,7,3.3,93.2,100.0,9.01,57.7,Medium,Yes,5.2,1,No,9.4,Excellent
+STU0117,Student 117,R2020117,Female,20,Electrical,3,3.2,55.7,82.7,6.31,47.5,Low,Yes,3.1,7,No,6.2,Average
+STU0118,Student 118,R2020118,Male,18,IT,6,2.2,82.2,86.5,8.6,63.5,Low,Yes,6.3,8,No,3.9,Poor
+STU0119,Student 119,R2020119,Female,21,Computer Science,5,5.9,100.0,55.3,5.58,62.5,Low,Yes,6.6,4,Yes,5.5,Excellent
+STU0120,Student 120,R2020120,Female,18,Electrical,2,2.5,86.6,56.0,5.6,55.9,Low,Yes,8.5,1,No,5.4,Average
+STU0121,Student 121,R2020121,Female,18,Electronics,6,5.0,71.9,58.6,6.72,48.1,Low,No,7.3,3,No,4.6,Average
+STU0122,Student 122,R2020122,Male,21,Mechanical,2,0.2,77.5,76.9,8.39,76.9,Low,Yes,7.5,6,Yes,9.2,Average
+STU0123,Student 123,R2020123,Female,19,Computer Science,8,5.6,76.9,72.3,10.0,69.5,High,Yes,5.6,3,No,4.9,Good
+STU0124,Student 124,R2020124,Male,21,Civil,1,7.4,93.1,68.3,8.67,66.0,Low,Yes,7.5,2,Yes,5.3,Excellent
+STU0125,Student 125,R2020125,Male,22,Civil,8,3.6,61.7,64.0,7.26,67.9,Medium,No,6.8,7,Yes,4.2,Average
+STU0126,Student 126,R2020126,Female,19,Mechanical,7,4.7,67.2,67.5,7.73,69.4,Medium,Yes,6.4,6,No,4.0,Good
+STU0127,Student 127,R2020127,Male,21,Civil,1,3.8,46.6,67.5,8.29,73.2,High,Yes,5.5,5,No,6.5,Average
+STU0128,Student 128,R2020128,Male,20,Computer Science,7,1.3,95.4,73.5,8.59,65.6,Low,Yes,6.7,2,Yes,6.9,Average
+STU0129,Student 129,R2020129,Female,20,Civil,2,0.5,79.8,90.4,5.29,75.9,Medium,Yes,7.3,1,No,2.9,Poor
+STU0130,Student 130,R2020130,Male,22,IT,3,6.4,72.7,69.3,6.98,58.9,High,Yes,6.4,9,Yes,6.4,Good
+STU0131,Student 131,R2020131,Female,21,Electrical,7,5.8,100.0,83.5,9.9,53.4,Low,Yes,9.0,4,Yes,2.2,Excellent
+STU0132,Student 132,R2020132,Female,20,Computer Science,3,5.2,99.4,69.6,8.03,73.4,High,Yes,9.2,3,Yes,6.7,Excellent
+STU0133,Student 133,R2020133,Female,21,Electrical,3,7.1,76.8,67.3,7.04,57.2,High,Yes,6.8,9,Yes,5.3,Good
+STU0134,Student 134,R2020134,Female,21,Computer Science,5,6.5,93.5,69.6,6.35,51.6,Medium,No,5.4,8,No,5.8,Good
+STU0135,Student 135,R2020135,Male,21,IT,2,3.6,82.3,37.5,5.01,99.4,Medium,Yes,5.9,4,Yes,5.6,Average
+STU0136,Student 136,R2020136,Male,20,Civil,4,3.4,52.9,53.2,6.59,57.4,Low,Yes,6.4,1,No,5.4,Poor
+STU0137,Student 137,R2020137,Male,18,Electrical,8,3.3,68.9,54.3,4.58,77.5,Medium,Yes,6.3,1,No,6.3,Average
+STU0138,Student 138,R2020138,Female,19,Civil,6,5.1,93.2,77.9,5.94,78.8,Medium,Yes,6.6,9,No,8.5,Excellent
+STU0139,Student 139,R2020139,Male,20,Electrical,2,1.9,78.1,81.8,5.6,68.1,High,No,8.5,2,Yes,2.6,Average
+STU0140,Student 140,R2020140,Male,22,Electronics,5,4.3,63.6,94.0,5.87,79.5,Medium,Yes,7.0,3,Yes,8.2,Good
+STU0141,Student 141,R2020141,Female,21,Electronics,8,4.5,81.6,73.0,8.05,76.9,Medium,Yes,4.4,4,Yes,8.8,Excellent
+STU0142,Student 142,R2020142,Male,21,Electrical,8,4.4,48.4,94.1,6.35,52.0,High,Yes,6.8,4,No,4.1,Average
+STU0143,Student 143,R2020143,Male,19,Electrical,6,4.0,71.3,73.5,7.53,48.5,Low,Yes,6.1,5,Yes,5.8,Average
+STU0144,Student 144,R2020144,Female,21,Electronics,4,2.4,79.3,58.9,7.43,100.0,Low,Yes,4.3,7,No,3.9,Average
+STU0145,Student 145,R2020145,Male,18,Electrical,6,2.0,88.4,77.6,8.64,69.4,High,Yes,5.1,2,No,6.6,Good
+STU0146,Student 146,R2020146,Female,19,Mechanical,5,2.8,84.4,81.8,7.99,90.0,Medium,Yes,8.4,6,Yes,5.3,Good
+STU0147,Student 147,R2020147,Female,21,Computer Science,6,4.0,87.2,78.3,6.55,36.1,Medium,Yes,6.4,8,No,7.5,Average
+STU0148,Student 148,R2020148,Male,18,Mechanical,5,3.9,82.0,82.8,7.84,73.3,Low,Yes,6.6,4,Yes,3.2,Good
+STU0149,Student 149,R2020149,Male,20,Mechanical,5,8.2,80.7,100.0,6.69,79.3,Low,Yes,7.8,2,Yes,6.4,Excellent
+STU0150,Student 150,R2020150,Female,20,Mechanical,2,5.7,85.2,85.9,7.67,55.4,Medium,Yes,7.0,9,No,6.7,Excellent
+STU0151,Student 151,R2020151,Male,18,Electronics,6,5.7,62.2,100.0,8.02,90.9,Low,Yes,7.3,6,Yes,6.0,Good
+STU0152,Student 152,R2020152,Female,21,Electronics,2,5.8,95.3,81.4,6.56,41.1,Low,Yes,5.6,6,Yes,2.9,Good
+STU0153,Student 153,R2020153,Female,22,Electrical,5,3.3,58.6,64.5,7.76,75.2,Medium,Yes,7.0,6,Yes,3.8,Average
+STU0154,Student 154,R2020154,Female,21,Electrical,8,4.9,53.7,64.6,9.02,73.3,Low,Yes,7.5,9,Yes,4.7,Average
+STU0155,Student 155,R2020155,Male,18,Electronics,8,2.5,93.8,70.9,5.99,75.9,Medium,Yes,5.9,3,No,5.5,Good
+STU0156,Student 156,R2020156,Female,22,Computer Science,2,4.1,70.2,62.4,7.53,73.3,Low,Yes,6.1,1,No,10.0,Average
+STU0157,Student 157,R2020157,Female,18,Electrical,6,4.0,86.4,53.3,4.01,56.7,Medium,Yes,5.0,9,Yes,1.7,Average
+STU0158,Student 158,R2020158,Female,18,Computer Science,6,5.9,76.9,85.1,5.61,41.7,Low,Yes,7.5,2,No,5.3,Excellent
+STU0159,Student 159,R2020159,Female,22,Civil,3,3.0,75.7,75.6,5.7,76.1,Low,Yes,5.9,8,No,6.4,Average
+STU0160,Student 160,R2020160,Male,20,IT,1,3.5,84.2,84.3,7.48,63.4,Medium,Yes,5.9,1,No,5.5,Good
+STU0161,Student 161,R2020161,Male,22,Computer Science,1,2.5,88.2,89.3,9.49,93.2,Medium,No,7.4,3,Yes,6.3,Excellent
+STU0162,Student 162,R2020162,Female,22,IT,3,3.3,75.5,63.9,5.96,90.1,Medium,Yes,6.4,10,No,6.4,Poor
+STU0163,Student 163,R2020163,Female,20,Civil,6,1.7,69.4,69.4,6.59,84.2,Medium,Yes,7.2,5,No,8.2,Average
+STU0164,Student 164,R2020164,Female,21,Computer Science,7,4.3,72.6,81.7,7.26,41.4,Low,Yes,6.5,6,No,6.0,Poor
+STU0165,Student 165,R2020165,Female,22,IT,6,1.6,80.7,100.0,4.98,64.1,High,Yes,7.8,1,No,6.9,Average
+STU0166,Student 166,R2020166,Male,18,Civil,3,0.0,77.3,75.5,7.81,61.7,High,Yes,4.7,6,No,6.9,Poor
+STU0167,Student 167,R2020167,Female,22,Electronics,8,2.7,92.7,71.4,4.99,73.4,Medium,Yes,7.0,4,Yes,3.5,Average
+STU0168,Student 168,R2020168,Male,19,Mechanical,6,3.2,77.1,100.0,6.68,59.6,Medium,No,5.7,3,No,0.2,Excellent
+STU0169,Student 169,R2020169,Female,21,Electrical,6,0.6,92.1,64.7,8.03,35.4,Medium,Yes,7.6,10,No,7.0,Average
+STU0170,Student 170,R2020170,Male,18,Computer Science,6,3.3,87.6,76.6,7.76,94.6,Medium,Yes,4.6,3,Yes,7.8,Good
+STU0171,Student 171,R2020171,Female,22,Electrical,6,3.8,99.2,53.2,6.98,46.2,Medium,No,6.9,9,Yes,7.4,Average
+STU0172,Student 172,R2020172,Male,20,Electrical,4,5.9,88.4,60.7,7.55,66.6,Low,Yes,7.8,5,Yes,9.3,Excellent
+STU0173,Student 173,R2020173,Female,21,IT,6,2.7,63.7,59.6,6.03,83.3,High,Yes,7.5,2,No,4.9,Average
+STU0174,Student 174,R2020174,Male,18,IT,8,6.6,53.9,66.0,7.3,92.0,Low,Yes,7.0,9,Yes,5.4,Excellent
+STU0175,Student 175,R2020175,Male,21,Computer Science,3,3.3,81.5,100.0,10.0,74.1,High,Yes,6.3,7,No,6.5,Good
+STU0176,Student 176,R2020176,Female,18,Computer Science,2,3.0,85.6,55.5,5.41,80.9,Medium,No,7.6,1,Yes,8.6,Poor
+STU0177,Student 177,R2020177,Male,21,Electronics,1,3.9,84.4,86.6,5.7,67.9,High,Yes,8.1,1,Yes,3.9,Good
+STU0178,Student 178,R2020178,Female,20,Mechanical,4,4.8,73.8,83.7,8.31,42.7,High,Yes,7.7,8,Yes,8.2,Excellent
+STU0179,Student 179,R2020179,Female,20,Mechanical,2,2.8,71.1,56.6,6.43,75.1,Medium,No,6.3,5,Yes,4.6,Average
+STU0180,Student 180,R2020180,Male,20,IT,5,4.3,77.4,85.5,8.11,69.0,Medium,Yes,6.1,4,Yes,5.0,Average
+STU0181,Student 181,R2020181,Female,19,IT,5,4.7,78.5,54.9,7.31,44.8,Medium,Yes,6.9,3,Yes,2.5,Average
+STU0182,Student 182,R2020182,Male,19,IT,6,4.5,63.1,73.3,6.06,59.0,Low,Yes,8.7,5,Yes,8.4,Good
+STU0183,Student 183,R2020183,Female,18,Mechanical,4,7.9,64.3,53.3,8.86,67.1,Medium,No,5.9,9,No,5.8,Good
+STU0184,Student 184,R2020184,Female,19,IT,8,4.0,100.0,62.5,8.52,70.3,High,Yes,6.9,10,No,6.5,Average
+STU0185,Student 185,R2020185,Female,19,Civil,5,4.6,86.0,64.5,5.87,90.6,Medium,Yes,6.1,2,Yes,7.5,Good
+STU0186,Student 186,R2020186,Male,21,Mechanical,7,1.5,80.9,96.3,7.89,67.3,Low,Yes,8.6,9,Yes,4.8,Good
+STU0187,Student 187,R2020187,Female,18,IT,5,6.0,87.0,100.0,6.02,77.5,Medium,Yes,5.3,5,No,6.0,Average
+STU0188,Student 188,R2020188,Female,19,Computer Science,5,4.0,51.1,74.8,6.1,57.6,Medium,Yes,8.2,6,Yes,9.0,Average
+STU0189,Student 189,R2020189,Female,19,Mechanical,5,3.6,95.8,73.4,8.01,40.7,Medium,Yes,6.9,8,No,7.1,Average
+STU0190,Student 190,R2020190,Female,21,IT,2,1.5,67.1,63.9,5.58,57.9,Medium,Yes,7.7,7,No,6.8,Average
+STU0191,Student 191,R2020191,Male,18,Electrical,7,2.2,85.5,59.4,7.97,66.7,Low,Yes,8.6,1,No,7.1,Good
+STU0192,Student 192,R2020192,Male,21,Mechanical,4,3.5,73.3,61.5,6.34,52.8,Medium,Yes,5.4,8,No,1.8,Average
+STU0193,Student 193,R2020193,Male,20,Mechanical,2,6.7,70.8,65.7,5.62,98.5,Low,No,8.2,1,No,5.8,Excellent
+STU0194,Student 194,R2020194,Female,18,Electrical,5,5.3,93.5,83.1,8.73,71.3,Medium,No,7.5,10,Yes,8.5,Excellent
+STU0195,Student 195,R2020195,Female,18,Mechanical,4,6.0,69.2,55.2,6.74,53.0,Medium,Yes,6.4,3,Yes,3.3,Average
+STU0196,Student 196,R2020196,Female,21,Civil,1,3.9,83.0,79.4,7.01,64.0,Low,Yes,5.8,8,Yes,4.8,Poor
+STU0197,Student 197,R2020197,Female,19,Mechanical,8,3.6,100.0,79.0,8.97,85.9,Medium,Yes,7.0,10,No,4.4,Excellent
+STU0198,Student 198,R2020198,Female,21,IT,5,3.1,68.3,56.1,9.59,72.9,Medium,Yes,7.0,10,No,4.4,Good
+STU0199,Student 199,R2020199,Female,18,Electrical,3,5.7,90.0,100.0,8.85,62.5,Medium,No,5.2,1,Yes,3.8,Excellent
+STU0200,Student 200,R2020200,Female,22,Computer Science,6,2.5,69.5,59.8,7.91,42.1,Medium,Yes,7.2,4,No,7.5,Average
+STU0201,Student 201,R2020201,Male,18,Electrical,7,3.0,56.1,89.7,7.46,59.7,Low,Yes,8.2,7,No,6.7,Average
+STU0202,Student 202,R2020202,Male,22,IT,8,8.4,61.5,58.9,5.49,60.6,Low,Yes,7.8,5,Yes,8.7,Good
+STU0203,Student 203,R2020203,Male,20,Electronics,3,3.8,87.2,50.2,5.08,67.9,Medium,Yes,5.8,9,Yes,7.4,Average
+STU0204,Student 204,R2020204,Female,21,Electrical,7,5.1,90.4,66.1,7.16,94.3,Medium,Yes,5.9,7,No,5.0,Good
+STU0205,Student 205,R2020205,Female,18,Computer Science,6,2.7,71.2,93.5,9.19,73.4,Medium,Yes,5.4,2,Yes,7.0,Excellent
+STU0206,Student 206,R2020206,Female,21,IT,4,4.1,85.8,37.1,6.61,68.6,Low,No,5.1,10,No,6.4,Poor
+STU0207,Student 207,R2020207,Female,22,Electronics,6,4.4,88.3,87.2,5.6,65.6,High,Yes,9.6,5,No,4.8,Average
+STU0208,Student 208,R2020208,Female,18,Electrical,6,3.4,65.9,44.8,5.37,75.9,Medium,Yes,6.9,2,Yes,4.7,Poor
+STU0209,Student 209,R2020209,Male,19,Civil,7,0.9,71.5,65.8,8.37,49.8,Low,Yes,5.6,1,Yes,7.7,Average
+STU0210,Student 210,R2020210,Male,19,IT,8,1.4,88.9,62.3,6.97,36.7,High,Yes,6.0,8,Yes,4.9,Poor
+STU0211,Student 211,R2020211,Male,21,Computer Science,7,4.3,63.5,75.2,6.54,96.6,Medium,Yes,6.0,7,Yes,5.4,Average
+STU0212,Student 212,R2020212,Female,20,Computer Science,8,3.6,73.8,100.0,9.11,98.3,Low,Yes,6.3,9,No,4.7,Good
+STU0213,Student 213,R2020213,Female,22,IT,3,2.9,70.5,66.8,8.08,48.4,Medium,Yes,6.8,3,No,8.5,Average
+STU0214,Student 214,R2020214,Female,22,IT,4,2.0,87.5,81.1,6.6,52.4,Low,No,5.4,2,Yes,3.4,Average
+STU0215,Student 215,R2020215,Male,18,Electrical,1,2.2,67.0,85.5,7.24,71.4,Low,Yes,8.1,7,No,9.9,Poor
+STU0216,Student 216,R2020216,Female,19,Electrical,6,3.3,83.4,77.1,4.23,76.5,Medium,Yes,6.8,7,No,7.4,Average
+STU0217,Student 217,R2020217,Female,18,Civil,3,2.6,87.7,68.6,4.34,67.0,Low,No,6.6,1,No,9.8,Good
+STU0218,Student 218,R2020218,Male,19,Electrical,5,5.3,79.6,65.4,6.78,88.0,Low,Yes,6.7,1,Yes,8.4,Excellent
+STU0219,Student 219,R2020219,Female,21,Electronics,6,2.4,91.4,88.1,8.91,55.9,Medium,Yes,6.2,2,No,6.7,Good
+STU0220,Student 220,R2020220,Female,19,Civil,6,4.6,61.9,76.3,3.11,62.2,Medium,Yes,4.5,8,No,4.1,Average
+STU0221,Student 221,R2020221,Male,19,Civil,4,3.5,86.3,58.4,8.2,57.5,Medium,Yes,5.9,1,No,5.9,Average
+STU0222,Student 222,R2020222,Male,22,Electronics,2,4.7,69.0,92.3,9.37,41.0,Low,Yes,5.0,7,No,9.8,Good
+STU0223,Student 223,R2020223,Female,19,Electronics,1,5.5,68.0,64.0,6.68,43.6,High,Yes,7.0,8,Yes,6.8,Good
+STU0224,Student 224,R2020224,Male,19,Electrical,3,4.7,100.0,68.1,5.02,54.5,Low,Yes,7.4,9,No,3.0,Average
+STU0225,Student 225,R2020225,Female,18,Computer Science,7,5.2,82.3,71.2,7.19,67.1,Low,Yes,6.7,6,Yes,5.9,Average
+STU0226,Student 226,R2020226,Male,20,IT,6,6.2,71.5,68.8,8.5,37.0,High,Yes,6.0,6,Yes,9.7,Average
+STU0227,Student 227,R2020227,Female,19,Civil,6,4.8,64.2,75.9,7.58,59.9,Medium,Yes,6.7,3,No,6.2,Average
+STU0228,Student 228,R2020228,Female,21,Civil,3,6.1,73.3,81.4,8.56,44.4,Low,Yes,5.6,6,No,4.9,Good
+STU0229,Student 229,R2020229,Male,21,Mechanical,8,1.8,73.9,77.3,8.32,65.2,Medium,No,4.6,2,No,8.7,Good
+STU0230,Student 230,R2020230,Male,19,IT,2,1.9,48.4,79.5,7.98,59.0,Medium,Yes,6.2,10,No,10.0,Poor
+STU0231,Student 231,R2020231,Male,21,IT,8,4.3,91.9,83.1,8.08,49.0,Low,Yes,7.9,6,No,3.9,Good
+STU0232,Student 232,R2020232,Male,20,Electrical,3,3.7,58.9,48.5,6.19,62.1,Medium,No,7.6,9,Yes,5.4,Poor
+STU0233,Student 233,R2020233,Female,19,Computer Science,6,2.5,74.9,58.0,7.45,59.4,High,No,5.9,10,No,5.2,Poor
+STU0234,Student 234,R2020234,Male,20,Electrical,3,3.7,78.4,64.8,8.31,66.5,Medium,No,5.9,2,Yes,10.0,Excellent
+STU0235,Student 235,R2020235,Female,21,Civil,5,4.8,84.6,64.4,6.07,63.3,Medium,No,5.4,7,Yes,0.2,Average
+STU0236,Student 236,R2020236,Male,21,IT,4,4.5,61.4,84.1,7.93,62.4,Low,Yes,6.3,6,Yes,6.8,Average
+STU0237,Student 237,R2020237,Female,20,Electronics,5,1.7,60.7,63.9,6.52,69.6,High,Yes,5.5,4,No,5.2,Average
+STU0238,Student 238,R2020238,Male,20,Electrical,6,1.8,90.5,88.4,9.38,58.9,Medium,Yes,7.4,4,No,9.1,Excellent
+STU0239,Student 239,R2020239,Male,22,Mechanical,8,4.4,95.9,60.7,6.12,53.4,High,Yes,7.5,10,Yes,7.4,Average
+STU0240,Student 240,R2020240,Male,18,IT,2,5.4,60.4,69.6,6.64,55.1,High,Yes,6.9,9,No,5.2,Poor
+STU0241,Student 241,R2020241,Male,18,Electronics,8,4.1,74.2,96.6,4.13,56.8,Medium,No,5.5,5,No,6.0,Excellent
+STU0242,Student 242,R2020242,Male,22,Electronics,8,5.1,74.6,59.0,6.64,50.0,Medium,Yes,7.7,4,No,7.7,Average
+STU0243,Student 243,R2020243,Female,20,Electrical,3,2.6,72.7,66.5,6.91,74.5,High,Yes,6.8,1,No,6.5,Good
+STU0244,Student 244,R2020244,Male,21,Mechanical,6,2.4,97.0,92.6,7.17,66.2,Medium,Yes,7.2,9,Yes,4.9,Average
+STU0245,Student 245,R2020245,Male,21,Mechanical,7,3.9,81.8,91.0,7.12,56.6,Medium,Yes,7.7,4,No,4.4,Average
+STU0246,Student 246,R2020246,Female,20,Electrical,3,4.3,64.1,86.7,6.19,66.8,Medium,Yes,6.3,4,No,4.7,Good
+STU0247,Student 247,R2020247,Male,19,Electronics,8,2.2,63.2,88.8,6.02,80.3,High,Yes,7.1,7,Yes,8.2,Average
+STU0248,Student 248,R2020248,Male,20,Mechanical,8,6.8,55.5,60.5,7.55,65.6,Low,No,7.0,7,No,3.3,Average
+STU0249,Student 249,R2020249,Female,21,Mechanical,3,3.3,75.8,86.5,8.31,83.4,Medium,Yes,5.1,10,No,6.4,Average
+STU0250,Student 250,R2020250,Female,19,Computer Science,6,2.5,77.1,60.3,7.0,63.0,High,Yes,7.8,5,No,4.9,Average
+STU0251,Student 251,R2020251,Female,19,IT,1,8.4,70.4,48.0,8.94,52.5,Medium,Yes,6.1,1,No,4.0,Excellent
+STU0252,Student 252,R2020252,Male,19,Computer Science,5,0.7,90.9,77.8,8.81,66.9,High,Yes,5.5,3,Yes,9.9,Average
+STU0253,Student 253,R2020253,Male,19,Computer Science,4,2.9,63.9,54.1,5.69,73.9,Medium,No,5.3,10,Yes,6.9,Poor
+STU0254,Student 254,R2020254,Female,22,IT,1,5.0,95.9,87.6,6.54,36.0,Medium,Yes,7.5,6,Yes,5.6,Average
+STU0255,Student 255,R2020255,Female,19,Computer Science,4,4.6,94.9,92.1,6.27,84.0,Medium,Yes,6.8,9,Yes,7.1,Good
+STU0256,Student 256,R2020256,Male,21,Mechanical,7,3.3,77.7,81.5,7.56,54.7,High,Yes,7.6,10,Yes,3.6,Average
+STU0257,Student 257,R2020257,Male,21,Electrical,7,1.0,97.9,69.8,7.75,63.3,Low,Yes,4.8,8,No,8.0,Average
+STU0258,Student 258,R2020258,Female,22,Electrical,1,0.0,96.9,88.7,4.75,34.0,High,No,4.2,10,No,4.2,Poor
+STU0259,Student 259,R2020259,Male,22,Mechanical,1,3.4,63.8,63.2,7.13,48.3,Medium,Yes,8.6,4,No,7.1,Average
+STU0260,Student 260,R2020260,Male,22,Electrical,5,5.1,92.6,53.9,10.0,51.5,Medium,No,4.9,5,No,10.0,Good
+STU0261,Student 261,R2020261,Female,20,Electronics,4,3.0,100.0,93.0,7.37,70.1,Low,Yes,6.8,2,No,9.9,Good
+STU0262,Student 262,R2020262,Female,21,IT,6,4.7,66.4,60.0,6.63,85.5,Medium,Yes,5.1,2,No,5.8,Average
+STU0263,Student 263,R2020263,Female,22,Civil,2,3.7,54.6,75.7,6.86,82.8,Medium,Yes,5.5,8,No,3.8,Average
+STU0264,Student 264,R2020264,Male,22,Civil,1,2.3,85.9,62.8,4.74,62.0,Low,Yes,6.9,2,No,5.8,Poor
+STU0265,Student 265,R2020265,Male,19,Computer Science,4,5.0,42.8,74.4,7.06,79.0,Medium,Yes,6.7,3,No,3.9,Average
+STU0266,Student 266,R2020266,Male,18,Electronics,8,2.9,67.5,82.8,4.61,41.7,Medium,Yes,8.7,7,No,7.5,Average
+STU0267,Student 267,R2020267,Female,21,Electrical,1,1.1,98.7,68.8,8.02,49.6,Medium,Yes,5.4,5,No,9.8,Good
+STU0268,Student 268,R2020268,Female,22,Civil,2,2.5,87.4,80.2,5.8,59.1,Low,Yes,6.3,5,Yes,6.0,Good
+STU0269,Student 269,R2020269,Female,19,Civil,8,4.0,69.9,82.1,7.26,83.2,Low,Yes,7.1,10,No,7.5,Good
+STU0270,Student 270,R2020270,Female,21,Computer Science,5,6.2,90.5,54.4,7.46,35.3,Medium,Yes,6.6,5,Yes,2.9,Average
+STU0271,Student 271,R2020271,Male,18,Civil,7,4.8,81.7,69.9,7.48,63.1,Medium,Yes,7.0,6,Yes,4.4,Average
+STU0272,Student 272,R2020272,Female,19,Computer Science,7,2.7,90.4,68.6,8.15,67.3,Low,Yes,6.0,2,Yes,4.3,Average
+STU0273,Student 273,R2020273,Female,20,Mechanical,4,5.7,68.1,63.6,7.23,84.0,Medium,Yes,8.3,7,No,8.4,Good
+STU0274,Student 274,R2020274,Male,18,Mechanical,3,6.0,97.9,96.9,4.6,61.6,Medium,No,4.2,3,No,8.4,Excellent
+STU0275,Student 275,R2020275,Male,18,Civil,8,4.6,63.8,58.8,5.44,61.9,High,Yes,5.8,3,No,6.1,Average
+STU0276,Student 276,R2020276,Female,21,Computer Science,5,3.9,81.1,54.5,5.37,24.2,High,Yes,7.6,9,Yes,6.4,Poor
+STU0277,Student 277,R2020277,Female,22,Civil,5,6.2,73.1,62.4,7.52,68.0,Medium,Yes,7.2,9,No,5.5,Good
+STU0278,Student 278,R2020278,Male,18,Electrical,2,2.7,85.3,79.8,7.22,50.1,Medium,Yes,6.3,1,No,5.8,Average
+STU0279,Student 279,R2020279,Female,22,Computer Science,5,5.7,86.0,79.7,7.56,63.6,Medium,Yes,6.5,7,No,6.5,Average
+STU0280,Student 280,R2020280,Female,21,Electronics,3,4.5,54.0,68.8,8.11,44.9,Medium,Yes,6.7,3,Yes,6.8,Average
+STU0281,Student 281,R2020281,Female,20,Computer Science,2,3.7,73.4,59.4,5.48,72.0,Low,Yes,5.8,3,Yes,9.4,Average
+STU0282,Student 282,R2020282,Male,20,Electrical,6,4.0,73.4,72.5,7.28,50.1,Medium,Yes,5.3,7,No,4.1,Average
+STU0283,Student 283,R2020283,Male,21,IT,6,5.4,96.2,77.5,5.45,61.7,Medium,Yes,5.6,10,Yes,7.8,Good
+STU0284,Student 284,R2020284,Female,20,Computer Science,5,4.7,70.3,94.7,6.26,83.0,Low,Yes,4.7,9,No,7.4,Good
+STU0285,Student 285,R2020285,Female,20,Computer Science,1,7.4,87.5,77.8,7.87,73.1,Medium,Yes,7.6,1,Yes,4.4,Excellent
+STU0286,Student 286,R2020286,Female,18,IT,3,2.4,86.6,42.0,4.01,70.0,Medium,Yes,3.7,6,Yes,8.2,Average
+STU0287,Student 287,R2020287,Female,20,Electrical,6,4.4,58.3,78.2,5.14,73.5,Medium,Yes,6.0,8,Yes,6.6,Good
+STU0288,Student 288,R2020288,Female,19,Electrical,1,3.2,72.0,71.3,7.77,84.9,Medium,No,5.7,4,No,4.8,Average
+STU0289,Student 289,R2020289,Male,20,Civil,5,7.5,76.2,85.9,5.18,58.5,High,Yes,7.1,1,No,8.2,Good
+STU0290,Student 290,R2020290,Female,19,Mechanical,8,6.5,87.9,81.4,7.49,56.7,Medium,Yes,6.3,10,No,10.0,Good
+STU0291,Student 291,R2020291,Male,18,IT,3,4.4,65.1,68.0,6.98,52.3,Medium,Yes,6.2,2,No,7.9,Average
+STU0292,Student 292,R2020292,Male,22,IT,8,6.1,95.3,33.7,7.55,44.3,Medium,Yes,5.1,2,Yes,7.3,Excellent
+STU0293,Student 293,R2020293,Female,19,Civil,6,0.7,90.1,66.4,7.26,80.1,Medium,Yes,5.8,7,No,3.3,Average
+STU0294,Student 294,R2020294,Female,22,Mechanical,5,3.5,60.1,82.7,5.92,97.8,Low,Yes,7.2,5,No,7.0,Good
+STU0295,Student 295,R2020295,Female,22,Mechanical,7,4.1,88.8,65.9,7.47,69.7,Medium,Yes,4.2,2,Yes,6.7,Good
+STU0296,Student 296,R2020296,Female,19,Civil,1,2.5,86.2,72.7,4.32,41.2,Low,Yes,5.7,5,No,9.8,Poor
+STU0297,Student 297,R2020297,Male,22,IT,5,3.6,90.1,90.1,5.76,67.3,Medium,No,6.7,10,Yes,4.8,Average
+STU0298,Student 298,R2020298,Male,22,IT,5,3.4,53.3,97.5,6.83,60.8,High,Yes,8.4,10,No,4.0,Average
+STU0299,Student 299,R2020299,Male,21,IT,7,6.1,75.0,67.2,4.95,64.1,Medium,Yes,5.8,8,No,5.4,Good
+STU0300,Student 300,R2020300,Male,18,Mechanical,2,6.9,89.2,87.9,5.16,47.7,Medium,Yes,3.1,1,Yes,4.1,Good
+STU0301,Student 301,R2020301,Male,22,Electronics,6,3.7,71.9,76.2,5.02,68.9,High,Yes,6.0,2,Yes,4.5,Average
+STU0302,Student 302,R2020302,Female,19,Electronics,8,3.5,76.7,86.6,7.82,67.0,Low,Yes,5.0,9,Yes,4.0,Average
+STU0303,Student 303,R2020303,Female,21,Mechanical,7,2.1,83.3,56.5,6.3,69.7,High,Yes,6.7,1,No,5.2,Average
+STU0304,Student 304,R2020304,Male,22,Civil,8,3.3,78.7,74.1,6.34,66.2,Low,Yes,6.6,6,No,4.2,Average
+STU0305,Student 305,R2020305,Female,19,Electrical,7,4.3,83.8,83.4,6.77,51.3,Medium,Yes,5.0,3,Yes,7.3,Good
+STU0306,Student 306,R2020306,Male,20,IT,3,2.2,54.1,84.8,5.29,79.8,Medium,Yes,7.0,9,Yes,4.8,Average
+STU0307,Student 307,R2020307,Female,22,Electronics,7,4.8,75.1,63.6,5.74,86.9,Low,No,5.1,8,No,9.4,Good
+STU0308,Student 308,R2020308,Male,18,Mechanical,1,1.2,85.5,75.6,8.87,52.7,Medium,No,7.8,1,No,8.7,Good
+STU0309,Student 309,R2020309,Female,21,IT,4,6.9,75.8,86.9,7.53,74.4,Low,Yes,7.0,4,Yes,6.0,Excellent
+STU0310,Student 310,R2020310,Male,19,Electrical,5,6.1,99.9,75.8,5.29,62.1,High,Yes,5.7,10,Yes,5.9,Good
+STU0311,Student 311,R2020311,Male,20,Civil,8,2.3,91.8,73.5,5.56,45.4,Low,Yes,8.8,1,Yes,8.5,Good
+STU0312,Student 312,R2020312,Female,21,Electronics,4,5.6,74.4,70.4,7.95,75.2,High,Yes,6.7,4,No,5.4,Good
+STU0313,Student 313,R2020313,Male,18,Electrical,3,4.2,69.2,82.4,3.29,52.1,Low,Yes,5.1,7,No,3.1,Poor
+STU0314,Student 314,R2020314,Male,18,Computer Science,5,4.1,85.8,100.0,6.37,69.9,Medium,Yes,4.3,4,No,6.0,Excellent
+STU0315,Student 315,R2020315,Female,18,Civil,3,3.4,69.6,79.0,6.16,67.7,Medium,Yes,4.0,4,Yes,6.1,Poor
+STU0316,Student 316,R2020316,Male,20,IT,7,0.0,86.3,76.1,7.61,80.9,Medium,Yes,6.7,7,Yes,5.2,Poor
+STU0317,Student 317,R2020317,Female,18,IT,8,2.6,60.6,46.7,6.22,94.3,Low,Yes,6.8,6,Yes,5.5,Average
+STU0318,Student 318,R2020318,Female,21,Electronics,5,4.2,100.0,76.8,8.97,83.0,Medium,Yes,7.2,3,No,6.5,Good
+STU0319,Student 319,R2020319,Male,22,Electronics,3,4.9,72.0,52.7,6.73,83.1,Medium,Yes,4.7,7,No,7.8,Average
+STU0320,Student 320,R2020320,Female,18,Mechanical,5,1.6,55.6,65.5,7.95,62.0,Low,Yes,5.9,8,Yes,3.8,Poor
+STU0321,Student 321,R2020321,Male,18,Computer Science,2,4.0,76.5,93.3,5.6,53.6,High,Yes,7.7,10,No,8.3,Excellent
+STU0322,Student 322,R2020322,Male,18,IT,8,4.2,54.1,62.9,7.71,91.6,Medium,Yes,7.0,7,Yes,5.1,Average
+STU0323,Student 323,R2020323,Male,21,Computer Science,5,4.7,88.0,78.4,6.58,73.9,Low,Yes,7.3,8,No,4.8,Excellent
+STU0324,Student 324,R2020324,Male,19,IT,6,3.8,66.7,80.9,4.65,71.1,Medium,Yes,5.6,6,No,10.0,Poor
+STU0325,Student 325,R2020325,Female,20,Electrical,7,2.1,75.5,86.6,8.7,79.9,Low,Yes,4.7,5,Yes,8.3,Average
+STU0326,Student 326,R2020326,Female,19,Mechanical,1,3.6,60.6,96.9,6.76,89.9,High,Yes,7.8,1,No,8.7,Excellent
+STU0327,Student 327,R2020327,Male,21,Computer Science,1,4.9,98.9,72.5,6.85,67.1,High,No,5.7,2,No,6.4,Excellent
+STU0328,Student 328,R2020328,Male,22,Computer Science,7,3.9,81.2,42.1,6.56,81.9,Medium,Yes,8.0,8,Yes,4.6,Average
+STU0329,Student 329,R2020329,Male,20,Civil,7,3.8,91.5,63.0,6.9,79.9,Low,Yes,7.1,9,No,6.6,Average
+STU0330,Student 330,R2020330,Male,22,Mechanical,6,5.0,87.5,45.9,6.01,51.8,Medium,Yes,6.6,4,Yes,8.3,Good
+STU0331,Student 331,R2020331,Male,21,IT,7,3.0,91.9,91.4,4.78,76.2,Medium,Yes,8.2,5,No,3.8,Good
+STU0332,Student 332,R2020332,Female,19,Computer Science,1,1.9,84.5,100.0,8.62,75.6,High,Yes,7.7,5,No,5.8,Good
+STU0333,Student 333,R2020333,Male,20,Computer Science,5,4.1,71.5,82.8,5.94,57.0,Medium,No,5.7,1,Yes,4.7,Average
+STU0334,Student 334,R2020334,Female,20,IT,7,4.8,65.6,97.0,7.7,57.4,Medium,No,4.3,2,No,5.7,Excellent
+STU0335,Student 335,R2020335,Male,18,Electronics,1,4.5,67.6,74.3,7.64,67.3,Medium,Yes,7.0,6,Yes,7.1,Excellent
+STU0336,Student 336,R2020336,Male,22,Mechanical,6,7.0,73.2,77.4,8.58,62.7,Low,Yes,6.2,2,No,8.4,Excellent
+STU0337,Student 337,R2020337,Female,22,IT,2,5.8,76.5,93.3,7.33,81.4,High,No,7.9,7,Yes,5.3,Excellent
+STU0338,Student 338,R2020338,Male,20,Electrical,2,6.7,58.9,49.2,4.49,81.0,High,No,5.6,1,No,7.3,Average
+STU0339,Student 339,R2020339,Male,19,Computer Science,6,4.4,88.1,60.6,8.13,86.7,Low,Yes,4.8,3,No,4.2,Good
+STU0340,Student 340,R2020340,Male,19,Electronics,7,7.1,66.3,71.8,6.83,74.3,High,Yes,8.0,10,Yes,4.8,Good
+STU0341,Student 341,R2020341,Male,20,Electronics,1,3.3,74.6,53.1,4.65,92.9,High,Yes,6.7,7,Yes,6.4,Poor
+STU0342,Student 342,R2020342,Female,19,Electrical,6,2.7,77.6,77.5,7.05,84.5,Medium,Yes,5.6,6,No,6.0,Average
+STU0343,Student 343,R2020343,Female,22,IT,3,5.6,74.6,83.9,8.12,70.0,Low,Yes,6.3,4,Yes,5.3,Excellent
+STU0344,Student 344,R2020344,Male,22,Civil,6,1.7,78.3,71.0,8.35,56.5,Low,Yes,7.0,10,No,3.2,Average
+STU0345,Student 345,R2020345,Female,21,Computer Science,1,7.0,72.2,85.1,6.26,44.7,Low,Yes,7.0,5,No,9.0,Excellent
+STU0346,Student 346,R2020346,Male,20,Computer Science,3,3.5,79.8,78.9,7.69,21.5,Low,Yes,6.9,6,No,9.5,Average
+STU0347,Student 347,R2020347,Female,21,Electronics,1,1.1,74.8,71.3,7.81,65.7,Medium,Yes,7.2,7,No,3.4,Average
+STU0348,Student 348,R2020348,Male,18,Civil,2,3.4,76.9,69.3,8.25,86.2,Medium,Yes,7.5,5,No,5.6,Average
+STU0349,Student 349,R2020349,Female,21,Electrical,2,4.0,64.8,74.0,6.55,67.7,High,Yes,4.7,3,No,5.6,Good
+STU0350,Student 350,R2020350,Male,20,Electronics,8,3.5,81.8,81.5,6.34,57.7,Medium,Yes,6.6,9,No,5.8,Average
+STU0351,Student 351,R2020351,Male,21,Civil,4,4.9,85.7,83.5,6.28,58.1,High,Yes,7.4,1,Yes,6.5,Good
+STU0352,Student 352,R2020352,Male,20,Computer Science,2,4.2,70.2,80.7,6.83,69.2,High,Yes,7.1,9,No,5.8,Good
+STU0353,Student 353,R2020353,Male,18,Computer Science,3,3.4,84.3,63.7,7.25,83.9,Medium,Yes,7.3,9,No,0.0,Average
+STU0354,Student 354,R2020354,Female,19,Civil,4,2.9,88.8,73.1,7.1,51.1,Low,Yes,6.4,2,No,5.5,Average
+STU0355,Student 355,R2020355,Male,19,Electronics,1,1.6,52.4,59.9,6.83,82.3,Medium,Yes,6.3,5,No,7.3,Poor
+STU0356,Student 356,R2020356,Male,21,IT,3,2.9,93.5,66.5,8.4,66.2,Medium,No,5.7,6,No,7.5,Average
+STU0357,Student 357,R2020357,Male,21,Computer Science,4,4.4,73.7,72.0,5.37,75.0,High,Yes,5.3,3,No,5.8,Good
+STU0358,Student 358,R2020358,Male,18,IT,8,5.7,65.1,78.4,6.25,64.0,Low,Yes,4.6,5,Yes,5.3,Good
+STU0359,Student 359,R2020359,Female,19,Mechanical,7,2.2,65.1,51.3,7.15,88.6,Medium,Yes,7.2,2,No,0.0,Average
+STU0360,Student 360,R2020360,Male,19,IT,3,3.6,75.7,91.5,6.51,69.3,Medium,Yes,7.7,5,Yes,5.6,Good
+STU0361,Student 361,R2020361,Male,21,Civil,4,2.8,82.7,76.7,8.54,70.7,Medium,Yes,6.5,2,Yes,0.8,Excellent
+STU0362,Student 362,R2020362,Female,20,Mechanical,7,2.2,85.2,75.6,9.32,49.5,Medium,No,7.3,6,No,7.1,Average
+STU0363,Student 363,R2020363,Male,18,Computer Science,3,7.5,90.0,69.3,4.57,52.5,Low,No,4.8,3,No,2.3,Excellent
+STU0364,Student 364,R2020364,Female,22,Computer Science,8,2.8,91.5,89.9,8.79,52.2,Low,Yes,7.1,9,No,6.1,Good
+STU0365,Student 365,R2020365,Male,21,Electrical,2,2.5,60.9,66.5,6.84,49.0,Medium,Yes,6.5,5,Yes,6.3,Poor
+STU0366,Student 366,R2020366,Female,19,Computer Science,5,5.2,91.0,67.6,5.5,69.0,Low,No,5.5,2,Yes,0.0,Excellent
+STU0367,Student 367,R2020367,Male,21,Electronics,2,4.8,92.0,88.4,7.48,66.5,Medium,Yes,5.4,2,Yes,6.2,Good
+STU0368,Student 368,R2020368,Female,20,Electronics,7,3.2,76.5,78.6,7.76,94.1,Low,Yes,3.3,2,Yes,5.2,Good
+STU0369,Student 369,R2020369,Female,20,IT,2,8.0,94.8,56.1,8.02,80.4,Low,Yes,6.0,3,No,5.7,Excellent
+STU0370,Student 370,R2020370,Male,22,Computer Science,6,2.5,79.0,90.9,5.89,80.2,Medium,Yes,5.0,6,No,4.5,Poor
+STU0371,Student 371,R2020371,Female,22,Mechanical,4,4.8,46.6,67.3,8.48,95.6,Low,Yes,6.8,1,No,9.7,Good
+STU0372,Student 372,R2020372,Male,20,Computer Science,5,0.2,87.6,73.3,7.74,55.1,Low,Yes,6.4,6,Yes,4.3,Average
+STU0373,Student 373,R2020373,Male,18,IT,4,4.5,87.8,79.6,6.08,82.4,High,No,7.1,8,No,4.9,Good
+STU0374,Student 374,R2020374,Female,19,IT,8,5.1,77.0,71.5,7.68,72.2,High,Yes,6.0,2,No,3.9,Good
+STU0375,Student 375,R2020375,Male,21,Electronics,4,1.8,84.4,99.2,8.26,92.0,Medium,No,6.8,10,No,7.4,Excellent
+STU0376,Student 376,R2020376,Male,20,IT,8,6.9,83.4,82.5,4.8,62.4,Medium,Yes,5.5,10,No,8.3,Good
+STU0377,Student 377,R2020377,Male,21,Electronics,5,5.3,82.9,80.1,6.65,46.8,Medium,No,5.2,10,Yes,4.9,Average
+STU0378,Student 378,R2020378,Male,19,Civil,8,4.3,81.2,79.6,7.0,54.6,Low,Yes,6.4,5,No,4.5,Good
+STU0379,Student 379,R2020379,Female,20,Electronics,8,2.5,77.8,98.2,8.43,72.2,High,Yes,6.3,6,Yes,7.9,Excellent
+STU0380,Student 380,R2020380,Female,18,Mechanical,6,3.0,79.8,100.0,6.97,66.9,Low,Yes,6.2,1,Yes,6.6,Good
+STU0381,Student 381,R2020381,Male,21,Electronics,5,2.6,79.0,90.4,7.65,68.7,Medium,No,6.6,5,No,9.3,Good
+STU0382,Student 382,R2020382,Female,20,Electronics,5,3.9,58.3,73.0,7.68,90.1,Medium,Yes,5.8,7,Yes,5.5,Average
+STU0383,Student 383,R2020383,Male,18,Electrical,6,4.3,78.6,55.8,8.23,39.4,Medium,No,7.1,8,No,6.8,Average
+STU0384,Student 384,R2020384,Male,22,Electronics,7,2.8,68.8,66.4,7.7,80.5,Medium,No,6.0,8,Yes,6.0,Good
+STU0385,Student 385,R2020385,Male,19,Mechanical,4,4.9,70.6,62.0,6.99,67.1,Low,Yes,10.0,1,Yes,2.2,Average
+STU0386,Student 386,R2020386,Male,18,IT,7,3.1,75.9,63.5,5.53,69.6,Low,Yes,5.0,4,Yes,3.4,Average
+STU0387,Student 387,R2020387,Female,21,Computer Science,6,4.8,63.0,72.6,6.25,65.1,Medium,No,7.5,6,Yes,4.2,Good
+STU0388,Student 388,R2020388,Male,18,Electrical,2,2.7,60.0,83.2,5.82,59.7,Medium,No,9.4,1,No,7.3,Average
+STU0389,Student 389,R2020389,Male,18,Computer Science,2,5.3,78.9,86.4,6.49,53.4,Low,Yes,7.5,6,No,2.9,Excellent
+STU0390,Student 390,R2020390,Male,22,IT,6,5.3,88.3,71.9,6.26,58.9,High,Yes,8.4,2,No,5.8,Good
+STU0391,Student 391,R2020391,Female,22,Computer Science,2,6.8,73.7,74.6,8.89,60.5,Medium,No,7.1,10,Yes,5.7,Excellent
+STU0392,Student 392,R2020392,Male,19,Civil,1,3.0,68.5,52.1,6.35,52.8,Low,Yes,6.0,1,No,8.5,Average
+STU0393,Student 393,R2020393,Male,21,Civil,6,6.3,71.5,88.2,5.27,69.0,Medium,Yes,8.0,6,No,10.0,Good
+STU0394,Student 394,R2020394,Male,20,Mechanical,3,9.1,100.0,51.0,5.98,49.4,Medium,Yes,7.3,10,No,9.2,Excellent
+STU0395,Student 395,R2020395,Female,22,Electronics,2,5.1,53.9,64.7,8.81,59.2,High,No,4.3,5,Yes,4.6,Average
+STU0396,Student 396,R2020396,Male,19,Civil,2,3.5,93.1,73.1,5.89,53.6,Medium,Yes,5.3,3,No,6.2,Average
+STU0397,Student 397,R2020397,Female,22,Electrical,1,3.9,94.1,57.9,6.64,83.7,Low,No,7.7,8,No,8.2,Good
+STU0398,Student 398,R2020398,Male,18,Electronics,5,6.8,72.1,75.7,5.68,46.8,High,Yes,6.9,6,No,4.5,Average
+STU0399,Student 399,R2020399,Male,19,Computer Science,6,4.8,73.7,63.8,6.57,70.0,Low,Yes,7.6,8,Yes,3.9,Average
+STU0400,Student 400,R2020400,Male,22,Computer Science,7,6.0,65.2,81.1,7.46,84.1,Medium,Yes,6.7,1,No,4.2,Good
+STU0401,Student 401,R2020401,Female,22,Mechanical,1,2.8,78.6,71.5,6.57,28.6,Medium,Yes,4.9,10,No,3.4,Poor
+STU0402,Student 402,R2020402,Male,18,Mechanical,4,4.1,97.5,75.8,6.13,67.2,High,Yes,7.3,2,No,5.0,Good
+STU0403,Student 403,R2020403,Male,21,Computer Science,5,5.4,71.6,51.4,5.7,62.3,Medium,Yes,7.2,5,Yes,9.4,Good
+STU0404,Student 404,R2020404,Female,19,Electronics,6,1.6,47.5,64.5,7.21,66.5,Low,Yes,6.7,9,No,4.7,Poor
+STU0405,Student 405,R2020405,Female,20,Electronics,2,0.6,82.4,57.2,6.48,73.0,Medium,Yes,6.6,5,Yes,3.6,Poor
+STU0406,Student 406,R2020406,Male,19,Civil,5,2.7,87.0,69.3,4.43,56.4,Low,Yes,5.1,9,No,5.6,Average
+STU0407,Student 407,R2020407,Male,19,Electronics,2,2.6,53.2,64.7,6.2,66.6,Low,Yes,6.1,1,Yes,5.0,Average
+STU0408,Student 408,R2020408,Female,21,Electrical,8,2.9,69.1,62.2,6.3,76.3,Medium,Yes,6.2,5,No,6.3,Average
+STU0409,Student 409,R2020409,Female,21,Civil,1,5.8,97.6,65.6,6.64,49.5,High,Yes,6.3,10,No,8.7,Average
+STU0410,Student 410,R2020410,Male,18,Computer Science,6,3.4,79.7,97.7,7.5,59.4,High,Yes,5.9,2,Yes,8.0,Good
+STU0411,Student 411,R2020411,Female,20,Electrical,1,4.1,78.5,39.2,7.97,67.0,Low,Yes,7.0,1,No,4.1,Average
+STU0412,Student 412,R2020412,Male,18,IT,4,6.8,72.3,82.7,7.8,76.0,High,Yes,6.6,7,No,8.0,Good
+STU0413,Student 413,R2020413,Female,18,IT,3,7.2,90.0,71.2,7.87,58.7,Low,Yes,6.6,7,No,2.8,Good
+STU0414,Student 414,R2020414,Female,21,IT,4,4.7,62.1,86.3,5.9,77.1,Medium,Yes,6.0,4,Yes,6.9,Average
+STU0415,Student 415,R2020415,Male,21,IT,1,6.0,76.0,84.0,4.99,59.3,High,Yes,6.5,3,No,8.1,Good
+STU0416,Student 416,R2020416,Male,20,Mechanical,7,3.5,53.6,73.3,8.28,33.2,Medium,Yes,8.0,8,No,3.8,Poor
+STU0417,Student 417,R2020417,Male,19,Mechanical,7,2.2,50.6,65.0,7.25,44.8,Medium,Yes,6.5,1,No,4.0,Poor
+STU0418,Student 418,R2020418,Male,20,Electrical,8,0.7,80.8,99.4,6.85,56.3,Medium,Yes,6.4,2,No,5.7,Poor
+STU0419,Student 419,R2020419,Female,19,Electrical,7,2.4,87.7,79.7,6.14,71.5,Medium,Yes,5.9,7,No,7.7,Average
+STU0420,Student 420,R2020420,Male,21,IT,8,2.6,80.2,55.6,6.89,69.8,Medium,Yes,6.7,7,No,7.2,Average
+STU0421,Student 421,R2020421,Female,18,Electrical,2,2.7,90.1,77.3,7.39,53.3,Medium,Yes,7.3,4,No,4.4,Average
+STU0422,Student 422,R2020422,Female,20,Mechanical,6,0.5,72.4,99.0,7.73,91.6,Medium,Yes,5.0,5,No,2.6,Average
+STU0423,Student 423,R2020423,Male,22,Mechanical,4,6.0,70.3,63.5,6.64,66.6,Medium,Yes,6.9,1,No,5.2,Average
+STU0424,Student 424,R2020424,Male,18,Mechanical,7,3.5,74.3,80.0,6.74,69.5,Medium,Yes,6.0,3,No,6.7,Average
+STU0425,Student 425,R2020425,Female,19,Mechanical,8,5.6,82.5,73.7,4.56,88.1,Medium,No,6.1,2,Yes,6.1,Average
+STU0426,Student 426,R2020426,Male,21,Mechanical,3,4.0,74.3,74.2,7.56,72.5,Low,No,6.6,10,Yes,5.8,Good
+STU0427,Student 427,R2020427,Male,22,Civil,2,0.4,85.7,100.0,6.28,70.6,Medium,Yes,7.5,7,No,7.8,Average
+STU0428,Student 428,R2020428,Male,19,Computer Science,8,2.9,51.7,55.0,9.11,55.1,High,Yes,7.8,6,No,5.4,Poor
+STU0429,Student 429,R2020429,Male,22,Electronics,4,2.5,100.0,68.8,7.19,84.6,High,No,6.6,1,No,7.0,Good
+STU0430,Student 430,R2020430,Male,18,Computer Science,1,6.0,100.0,79.4,7.98,69.0,High,Yes,6.4,4,Yes,4.9,Excellent
+STU0431,Student 431,R2020431,Male,20,Computer Science,2,4.1,85.2,60.3,5.17,66.6,Medium,No,6.1,6,Yes,3.0,Good
+STU0432,Student 432,R2020432,Male,20,Mechanical,6,5.3,66.3,79.6,5.31,71.8,High,Yes,6.1,5,Yes,6.9,Excellent
+STU0433,Student 433,R2020433,Female,21,IT,6,2.3,51.8,97.9,8.35,69.5,Medium,Yes,8.3,5,Yes,6.8,Good
+STU0434,Student 434,R2020434,Male,21,Mechanical,5,5.1,66.5,76.9,6.84,50.4,Medium,Yes,6.5,8,Yes,4.1,Average
+STU0435,Student 435,R2020435,Male,20,IT,4,5.5,62.4,75.3,9.6,73.3,Medium,Yes,7.0,1,No,6.0,Good
+STU0436,Student 436,R2020436,Female,22,IT,6,0.8,82.1,79.7,7.87,75.1,Medium,Yes,8.6,4,No,1.8,Average
+STU0437,Student 437,R2020437,Male,19,Civil,7,4.4,47.0,91.3,5.53,58.8,Low,Yes,7.4,8,No,7.1,Poor
+STU0438,Student 438,R2020438,Male,22,Civil,7,3.5,69.2,93.7,8.6,60.0,Low,Yes,4.3,1,No,4.7,Average
+STU0439,Student 439,R2020439,Male,22,Electrical,2,3.5,99.0,83.6,7.59,55.3,High,Yes,7.1,10,No,7.3,Average
+STU0440,Student 440,R2020440,Female,21,Mechanical,1,3.9,80.8,68.1,7.14,66.9,High,Yes,7.6,3,No,8.0,Average
+STU0441,Student 441,R2020441,Male,18,IT,1,7.8,77.5,45.2,6.12,62.2,Medium,Yes,5.2,1,No,6.9,Excellent
+STU0442,Student 442,R2020442,Male,21,Electronics,8,3.3,84.8,82.6,9.59,67.4,High,Yes,5.2,6,No,3.4,Good
+STU0443,Student 443,R2020443,Male,22,Electronics,7,0.2,75.9,99.3,7.42,55.0,Medium,Yes,7.8,8,No,7.4,Average
+STU0444,Student 444,R2020444,Male,18,Electrical,2,3.4,75.2,70.6,6.48,83.6,Medium,Yes,6.5,4,No,4.9,Good
+STU0445,Student 445,R2020445,Female,20,IT,4,5.3,70.6,78.9,7.15,91.0,Medium,Yes,5.3,9,Yes,10.0,Good
+STU0446,Student 446,R2020446,Female,20,Electrical,8,1.6,64.6,50.7,5.57,57.1,Medium,Yes,7.4,4,No,6.9,Poor
+STU0447,Student 447,R2020447,Male,21,Mechanical,4,4.8,81.3,90.2,8.58,66.4,Medium,Yes,5.3,2,No,3.8,Excellent
+STU0448,Student 448,R2020448,Female,22,Mechanical,8,5.7,60.9,79.6,5.39,60.7,Medium,Yes,7.3,6,No,2.8,Good
+STU0449,Student 449,R2020449,Female,20,Civil,5,6.1,66.3,74.1,7.58,68.0,Low,Yes,7.8,9,No,4.0,Average
+STU0450,Student 450,R2020450,Male,22,Mechanical,4,4.1,69.9,89.2,7.18,47.2,Medium,Yes,5.8,6,Yes,7.7,Poor
+STU0451,Student 451,R2020451,Male,22,Mechanical,6,6.4,82.1,67.2,7.67,69.9,Low,Yes,5.8,7,No,6.0,Excellent
+STU0452,Student 452,R2020452,Male,18,Mechanical,8,5.4,85.2,96.9,6.39,57.1,High,No,5.3,4,No,6.1,Excellent
+STU0453,Student 453,R2020453,Female,20,Electrical,6,5.4,89.6,58.1,5.58,59.9,Medium,No,7.1,9,No,7.8,Average
+STU0454,Student 454,R2020454,Male,20,IT,8,6.8,82.5,93.3,7.17,63.6,Low,Yes,6.1,5,Yes,4.4,Excellent
+STU0455,Student 455,R2020455,Female,20,Electronics,4,4.7,81.4,85.5,6.84,89.7,Low,Yes,9.5,10,Yes,6.4,Excellent
+STU0456,Student 456,R2020456,Male,20,Civil,8,4.3,67.8,82.6,6.06,59.8,Medium,Yes,4.3,2,No,5.7,Average
+STU0457,Student 457,R2020457,Female,21,IT,1,7.4,88.1,76.5,7.6,60.6,Low,Yes,6.5,9,No,8.9,Excellent
+STU0458,Student 458,R2020458,Female,22,IT,6,2.2,89.7,57.4,5.39,65.4,Medium,Yes,6.5,8,Yes,3.2,Average
+STU0459,Student 459,R2020459,Male,20,IT,6,7.6,78.0,52.9,6.13,66.8,High,Yes,7.1,6,No,4.0,Good
+STU0460,Student 460,R2020460,Male,22,Computer Science,2,2.7,73.2,79.7,6.26,58.4,Low,Yes,7.3,1,No,0.4,Poor
+STU0461,Student 461,R2020461,Male,20,Civil,2,0.5,90.5,55.3,4.7,59.5,High,No,8.6,9,Yes,4.0,Poor
+STU0462,Student 462,R2020462,Female,22,Computer Science,3,6.9,90.3,89.5,6.6,39.1,Low,Yes,8.8,3,No,6.6,Good
+STU0463,Student 463,R2020463,Male,21,Mechanical,3,4.4,63.0,100.0,5.72,61.6,Low,Yes,7.6,8,No,4.9,Average
+STU0464,Student 464,R2020464,Male,19,Mechanical,7,8.1,100.0,57.6,9.06,59.0,Low,Yes,6.7,1,No,5.5,Excellent
+STU0465,Student 465,R2020465,Female,20,Electronics,7,8.8,68.4,66.8,8.04,68.1,Medium,No,6.0,6,No,7.0,Good
+STU0466,Student 466,R2020466,Female,20,Mechanical,7,3.8,100.0,73.7,6.73,78.4,Low,Yes,5.8,8,No,4.7,Good
+STU0467,Student 467,R2020467,Male,18,Electrical,2,7.2,63.1,62.2,7.73,74.9,High,Yes,6.0,1,Yes,4.2,Excellent
+STU0468,Student 468,R2020468,Female,18,Mechanical,7,7.5,89.7,68.2,6.52,46.6,Low,Yes,8.1,8,No,7.6,Good
+STU0469,Student 469,R2020469,Female,21,Civil,8,3.3,79.2,88.7,6.76,46.9,High,Yes,6.6,10,Yes,6.9,Good
+STU0470,Student 470,R2020470,Female,20,Civil,8,5.2,87.3,96.5,6.7,71.8,Low,Yes,7.7,2,No,6.2,Excellent
+STU0471,Student 471,R2020471,Male,18,Electronics,4,2.4,93.0,71.9,5.87,69.1,Low,Yes,5.7,1,No,7.4,Average
+STU0472,Student 472,R2020472,Female,19,IT,7,5.7,64.6,65.1,5.99,79.3,Medium,Yes,4.4,2,No,6.3,Average
+STU0473,Student 473,R2020473,Female,21,Electronics,3,3.2,74.0,73.3,7.11,75.4,Medium,No,6.0,1,No,6.5,Average
+STU0474,Student 474,R2020474,Female,20,Computer Science,8,3.1,100.0,80.1,6.17,68.8,Medium,Yes,7.3,8,Yes,10.0,Average
+STU0475,Student 475,R2020475,Female,21,Civil,6,5.1,75.9,85.1,6.28,55.0,Low,Yes,5.6,2,No,5.0,Good
+STU0476,Student 476,R2020476,Female,19,Electronics,5,3.7,84.4,85.9,8.1,63.1,Medium,Yes,7.6,6,Yes,10.0,Average
+STU0477,Student 477,R2020477,Female,20,Electrical,3,7.7,57.9,67.3,6.84,71.6,Low,Yes,8.0,2,No,4.5,Good
+STU0478,Student 478,R2020478,Female,19,Computer Science,6,1.1,68.7,61.5,8.05,66.8,Low,Yes,5.0,7,No,5.3,Average
+STU0479,Student 479,R2020479,Female,19,IT,5,6.6,76.3,69.0,5.99,88.0,Medium,No,7.6,10,No,6.1,Good
+STU0480,Student 480,R2020480,Female,20,Mechanical,7,1.6,68.5,59.3,7.77,64.9,High,Yes,8.8,5,No,9.6,Average
+STU0481,Student 481,R2020481,Female,20,IT,3,2.0,85.9,86.0,5.44,59.7,Low,No,6.1,9,Yes,4.7,Poor
+STU0482,Student 482,R2020482,Female,18,Electrical,5,0.0,82.7,70.9,8.26,48.5,Medium,Yes,5.8,8,No,7.3,Average
+STU0483,Student 483,R2020483,Female,20,Mechanical,1,3.7,86.4,56.9,8.05,52.3,Low,Yes,5.9,5,No,4.4,Good
+STU0484,Student 484,R2020484,Male,20,Electronics,7,5.9,65.3,71.3,7.38,75.4,Medium,Yes,4.1,6,No,2.0,Good
+STU0485,Student 485,R2020485,Male,22,Mechanical,6,5.0,95.1,82.1,5.98,38.8,Medium,Yes,5.4,5,Yes,8.6,Average
+STU0486,Student 486,R2020486,Female,19,Electronics,4,3.3,66.6,74.8,5.08,79.0,Low,Yes,6.4,10,No,8.6,Poor
+STU0487,Student 487,R2020487,Female,19,IT,3,4.3,68.1,100.0,7.19,24.4,Medium,Yes,6.9,8,No,5.3,Average
+STU0488,Student 488,R2020488,Female,20,Electrical,4,4.5,87.3,73.1,8.21,86.5,Low,Yes,6.1,10,No,5.6,Good
+STU0489,Student 489,R2020489,Female,19,Computer Science,6,2.3,87.7,67.3,5.67,69.2,Medium,Yes,3.3,10,No,2.8,Poor
+STU0490,Student 490,R2020490,Female,20,Electronics,4,3.0,63.3,100.0,7.48,74.7,Medium,Yes,5.2,8,No,7.4,Good
+STU0491,Student 491,R2020491,Female,22,Electronics,2,1.2,67.7,67.6,5.72,84.9,Low,Yes,8.8,7,Yes,7.2,Average
+STU0492,Student 492,R2020492,Male,22,IT,8,1.5,81.1,57.7,5.75,55.2,Low,Yes,6.6,9,Yes,8.0,Average
+STU0493,Student 493,R2020493,Female,18,IT,7,0.3,60.6,82.7,9.02,47.9,Low,Yes,6.0,8,Yes,7.7,Poor
+STU0494,Student 494,R2020494,Male,18,IT,7,4.8,77.9,89.5,4.79,68.1,Low,No,5.6,4,Yes,6.2,Average
+STU0495,Student 495,R2020495,Male,22,Electrical,5,5.5,71.7,68.8,8.29,69.0,Medium,Yes,6.8,6,No,7.5,Good
+STU0496,Student 496,R2020496,Female,21,Mechanical,8,2.8,97.4,100.0,6.4,62.5,Medium,Yes,7.5,5,Yes,6.0,Average
+STU0497,Student 497,R2020497,Male,22,Mechanical,4,4.1,76.4,51.3,6.23,74.0,Medium,Yes,5.1,1,No,7.3,Good
+STU0498,Student 498,R2020498,Male,20,Electrical,1,4.4,83.4,81.7,6.49,74.8,Medium,Yes,5.5,6,No,7.7,Poor
+STU0499,Student 499,R2020499,Male,18,Civil,2,4.5,84.7,78.8,9.62,57.1,Medium,Yes,7.0,9,No,5.9,Good
+STU0500,Student 500,R2020500,Male,22,Computer Science,6,4.2,78.9,60.5,5.4,48.7,Low,No,6.2,3,Yes,6.9,Average
+STU0501,Student 501,R2020501,Male,22,Civil,6,3.8,92.1,70.9,5.56,39.1,Medium,Yes,6.4,7,Yes,8.4,Poor
+STU0502,Student 502,R2020502,Male,18,Mechanical,4,6.8,58.3,53.4,4.79,47.9,Low,Yes,6.8,5,No,6.4,Good
+STU0503,Student 503,R2020503,Female,20,Civil,6,4.9,85.4,66.4,6.76,35.4,Low,Yes,7.5,9,Yes,6.6,Good
+STU0504,Student 504,R2020504,Female,20,Mechanical,7,4.0,66.4,59.8,6.18,63.9,Low,Yes,7.2,3,No,4.2,Poor
+STU0505,Student 505,R2020505,Female,18,Civil,4,5.6,67.3,71.0,7.48,35.9,High,Yes,3.6,5,No,4.4,Average
+STU0506,Student 506,R2020506,Female,22,Mechanical,5,7.1,100.0,79.4,4.2,50.7,Medium,No,8.7,10,No,10.0,Good
+STU0507,Student 507,R2020507,Male,18,Electronics,4,1.4,62.4,100.0,4.63,61.8,High,Yes,7.5,5,Yes,6.5,Average
+STU0508,Student 508,R2020508,Female,19,Civil,4,1.3,88.0,68.7,7.92,81.8,Low,Yes,7.9,3,No,5.6,Good
+STU0509,Student 509,R2020509,Female,19,Mechanical,8,1.0,70.3,78.9,4.78,33.9,Low,Yes,4.4,5,Yes,3.2,Poor
+STU0510,Student 510,R2020510,Female,19,Computer Science,5,5.7,77.3,82.8,6.84,71.9,Low,No,6.5,3,No,9.5,Excellent
+STU0511,Student 511,R2020511,Male,19,IT,3,1.3,77.8,72.4,6.43,71.6,Medium,Yes,5.6,4,No,9.2,Poor
+STU0512,Student 512,R2020512,Male,22,Electronics,1,7.4,66.1,100.0,7.57,66.4,Medium,Yes,7.1,9,No,3.8,Good
+STU0513,Student 513,R2020513,Male,22,Electrical,3,4.7,89.7,83.8,5.42,92.4,High,Yes,6.6,3,No,9.9,Excellent
+STU0514,Student 514,R2020514,Female,18,Civil,1,6.1,92.7,77.0,7.09,71.1,Medium,Yes,7.8,10,Yes,7.1,Good
+STU0515,Student 515,R2020515,Male,21,Computer Science,7,0.0,63.5,72.1,5.7,53.0,Low,Yes,5.9,3,Yes,8.7,Poor
+STU0516,Student 516,R2020516,Male,18,Mechanical,2,2.6,86.8,83.8,7.63,46.9,Medium,Yes,5.8,6,No,7.9,Average
+STU0517,Student 517,R2020517,Male,22,Computer Science,5,3.5,64.3,67.1,6.08,70.9,Medium,No,4.5,5,Yes,5.3,Average
+STU0518,Student 518,R2020518,Female,19,IT,4,2.4,71.1,50.8,4.18,63.8,Medium,No,6.4,6,No,3.2,Poor
+STU0519,Student 519,R2020519,Male,21,Electronics,1,4.8,69.6,43.1,6.87,67.5,Medium,Yes,5.1,5,No,6.9,Average
+STU0520,Student 520,R2020520,Female,20,IT,6,1.3,90.2,77.5,6.66,58.7,Low,Yes,4.2,6,Yes,8.0,Poor
+STU0521,Student 521,R2020521,Male,18,Electrical,8,4.3,70.9,56.4,8.41,78.9,Medium,Yes,5.7,2,No,5.6,Average
+STU0522,Student 522,R2020522,Male,18,Electrical,2,3.9,89.6,59.0,6.93,93.7,Medium,Yes,7.9,8,No,7.1,Good
+STU0523,Student 523,R2020523,Female,20,Civil,5,5.8,97.7,60.9,7.96,47.4,Medium,No,6.7,1,No,1.8,Excellent
+STU0524,Student 524,R2020524,Male,21,Computer Science,7,1.8,72.5,57.4,6.51,58.0,Medium,Yes,7.5,8,No,7.4,Poor
+STU0525,Student 525,R2020525,Female,21,Electronics,3,5.9,79.3,64.6,7.43,61.6,Low,Yes,5.1,6,Yes,5.9,Average
+STU0526,Student 526,R2020526,Male,21,Computer Science,5,5.8,100.0,76.6,6.44,60.0,Medium,Yes,6.9,6,No,4.4,Good
+STU0527,Student 527,R2020527,Male,19,IT,7,3.2,72.8,59.6,8.87,59.9,High,Yes,5.6,3,No,2.7,Average
+STU0528,Student 528,R2020528,Female,19,IT,5,1.4,82.3,92.1,6.17,72.7,Medium,No,5.1,9,No,9.1,Average
+STU0529,Student 529,R2020529,Female,20,Computer Science,4,1.2,87.3,73.0,5.98,36.1,Medium,Yes,7.2,9,No,7.6,Average
+STU0530,Student 530,R2020530,Male,21,IT,3,1.3,85.5,66.0,5.56,36.9,Medium,Yes,6.2,1,Yes,4.8,Average
+STU0531,Student 531,R2020531,Male,21,Electrical,1,7.6,64.2,55.8,5.66,64.0,Medium,Yes,9.8,1,Yes,3.5,Good
+STU0532,Student 532,R2020532,Female,21,Civil,3,0.0,83.0,60.3,7.21,84.7,Medium,Yes,5.4,4,No,8.7,Poor
+STU0533,Student 533,R2020533,Female,21,Electronics,1,3.2,66.2,67.8,6.94,85.1,High,Yes,4.2,10,Yes,7.0,Average
+STU0534,Student 534,R2020534,Female,20,Electrical,8,3.0,96.9,26.7,7.51,65.5,Low,Yes,4.5,2,Yes,4.0,Average
+STU0535,Student 535,R2020535,Female,19,Civil,7,5.8,90.0,84.9,8.02,89.9,Medium,No,6.0,3,No,4.5,Excellent
+STU0536,Student 536,R2020536,Male,22,Computer Science,4,3.1,74.5,72.5,7.78,85.6,Medium,Yes,6.9,6,Yes,5.4,Poor
+STU0537,Student 537,R2020537,Male,19,Electrical,4,0.3,100.0,70.8,4.37,67.4,High,No,6.5,2,Yes,8.0,Average
+STU0538,Student 538,R2020538,Female,22,Mechanical,2,7.1,88.8,100.0,7.46,48.0,Medium,Yes,7.5,7,Yes,10.0,Excellent
+STU0539,Student 539,R2020539,Male,19,Electronics,5,2.0,100.0,64.0,7.02,72.0,Low,Yes,7.2,4,No,5.9,Average
+STU0540,Student 540,R2020540,Female,22,Computer Science,1,4.6,56.3,58.2,6.14,38.0,Medium,Yes,6.5,5,Yes,5.1,Average
+STU0541,Student 541,R2020541,Female,18,Electrical,4,2.9,68.3,79.4,8.79,64.8,Medium,Yes,6.4,1,No,6.5,Average
+STU0542,Student 542,R2020542,Male,18,Electrical,1,4.8,83.6,78.7,6.46,66.3,Medium,No,6.8,7,Yes,6.1,Good
+STU0543,Student 543,R2020543,Male,19,Mechanical,6,3.7,87.2,80.0,4.97,83.8,Medium,Yes,8.5,6,No,7.7,Excellent
+STU0544,Student 544,R2020544,Male,20,Mechanical,3,5.6,74.8,96.5,6.08,49.2,High,Yes,6.4,10,No,6.8,Average
+STU0545,Student 545,R2020545,Male,20,Electrical,4,6.2,63.2,91.1,8.36,78.0,Medium,Yes,6.5,5,No,5.3,Excellent
+STU0546,Student 546,R2020546,Female,21,Electrical,7,5.1,88.1,61.7,5.88,59.7,Medium,Yes,8.3,1,Yes,3.9,Average
+STU0547,Student 547,R2020547,Male,19,Electronics,8,7.8,81.9,97.0,5.97,46.2,Medium,Yes,5.3,6,No,8.6,Excellent
+STU0548,Student 548,R2020548,Female,19,Computer Science,4,6.2,100.0,100.0,6.25,100.0,Medium,Yes,5.2,5,No,5.5,Excellent
+STU0549,Student 549,R2020549,Male,20,Mechanical,8,3.9,100.0,71.2,8.22,52.3,Medium,Yes,5.0,10,No,8.9,Average
+STU0550,Student 550,R2020550,Female,19,Mechanical,6,4.5,78.0,63.2,6.91,47.5,High,Yes,4.7,9,Yes,4.4,Average
+STU0551,Student 551,R2020551,Female,20,Civil,8,6.2,80.0,80.6,8.17,77.7,Low,Yes,6.1,10,No,3.5,Good
+STU0552,Student 552,R2020552,Female,19,Mechanical,7,3.5,94.9,65.7,5.85,100.0,High,Yes,7.1,7,Yes,5.8,Good
+STU0553,Student 553,R2020553,Female,20,Electronics,5,5.2,54.0,84.5,4.09,60.9,Medium,No,4.5,5,No,6.5,Average
+STU0554,Student 554,R2020554,Male,20,IT,1,4.1,62.8,57.0,6.49,60.7,Low,Yes,5.8,9,No,7.3,Average
+STU0555,Student 555,R2020555,Female,19,IT,6,4.9,60.0,89.6,9.67,63.7,High,Yes,6.3,9,Yes,3.9,Average
+STU0556,Student 556,R2020556,Female,21,IT,6,2.5,85.5,71.2,6.51,58.0,Low,No,3.7,10,Yes,6.8,Poor
+STU0557,Student 557,R2020557,Female,20,Civil,5,2.8,58.4,80.5,8.09,84.3,Low,Yes,5.2,4,No,7.8,Average
+STU0558,Student 558,R2020558,Female,22,Electrical,5,3.0,47.7,85.6,7.45,59.6,Low,Yes,7.2,8,Yes,10.0,Average
+STU0559,Student 559,R2020559,Male,22,Electrical,6,4.5,95.0,54.5,7.51,64.0,Medium,Yes,5.6,6,No,5.6,Good
+STU0560,Student 560,R2020560,Male,19,Computer Science,6,2.8,79.8,88.6,6.28,54.4,Medium,Yes,5.6,6,Yes,8.0,Poor
+STU0561,Student 561,R2020561,Female,20,IT,5,3.0,47.5,95.0,5.92,54.2,Low,Yes,5.6,9,Yes,3.5,Average
+STU0562,Student 562,R2020562,Male,21,Civil,6,2.7,73.6,84.1,6.95,76.9,Medium,Yes,8.1,10,Yes,9.0,Average
+STU0563,Student 563,R2020563,Female,21,Computer Science,7,5.4,61.1,92.7,6.73,35.4,High,Yes,6.4,1,Yes,2.9,Average
+STU0564,Student 564,R2020564,Female,18,IT,2,0.9,64.1,64.3,6.83,20.0,Medium,Yes,7.4,2,Yes,4.7,Average
+STU0565,Student 565,R2020565,Male,19,Electrical,6,4.1,90.5,65.1,7.91,31.4,High,Yes,6.3,4,Yes,7.8,Good
+STU0566,Student 566,R2020566,Male,21,Mechanical,3,4.7,80.4,62.3,7.79,53.7,Medium,Yes,6.4,3,No,5.4,Good
+STU0567,Student 567,R2020567,Male,21,Electrical,8,4.9,66.1,79.6,6.05,51.5,High,Yes,5.7,3,No,4.8,Good
+STU0568,Student 568,R2020568,Female,19,Civil,7,6.7,62.9,77.4,8.94,45.3,Low,Yes,7.0,10,No,5.6,Good
+STU0569,Student 569,R2020569,Female,19,Mechanical,2,2.8,56.6,69.9,8.17,50.9,Low,Yes,6.8,1,No,5.5,Good
+STU0570,Student 570,R2020570,Female,22,Mechanical,2,0.9,53.3,75.6,5.51,54.8,Medium,Yes,9.5,4,Yes,6.4,Average
+STU0571,Student 571,R2020571,Male,19,IT,7,6.0,72.6,74.0,7.63,81.3,Medium,Yes,6.1,8,No,5.5,Average
+STU0572,Student 572,R2020572,Male,22,Civil,4,5.1,81.6,83.0,7.0,47.7,Low,Yes,6.5,8,Yes,5.3,Good
+STU0573,Student 573,R2020573,Female,21,Computer Science,3,3.3,82.4,97.8,7.13,54.3,Medium,Yes,5.9,10,Yes,5.6,Good
+STU0574,Student 574,R2020574,Female,20,Electronics,8,5.9,58.3,81.7,8.11,78.4,Medium,Yes,5.2,9,No,4.5,Average
+STU0575,Student 575,R2020575,Male,21,Mechanical,4,5.0,80.4,93.9,8.11,81.2,Low,Yes,5.9,7,Yes,4.6,Excellent
+STU0576,Student 576,R2020576,Male,20,Mechanical,7,8.0,49.1,51.8,8.72,88.6,High,Yes,5.5,4,No,5.4,Good
+STU0577,Student 577,R2020577,Male,18,Computer Science,4,3.4,78.2,76.5,4.75,76.3,Medium,Yes,6.7,4,Yes,2.2,Average
+STU0578,Student 578,R2020578,Male,20,Electronics,5,4.0,82.4,87.2,6.06,65.8,Medium,Yes,6.7,4,Yes,8.6,Good
+STU0579,Student 579,R2020579,Female,20,Electrical,4,4.3,91.7,50.1,5.38,75.9,High,Yes,8.3,1,No,4.3,Average
+STU0580,Student 580,R2020580,Female,19,IT,4,5.0,91.4,83.7,7.69,68.2,Low,Yes,5.6,9,No,6.2,Good
+STU0581,Student 581,R2020581,Female,22,IT,2,0.6,87.6,77.9,6.75,76.3,High,Yes,6.5,9,No,5.6,Average
+STU0582,Student 582,R2020582,Male,20,Civil,2,0.9,79.7,81.8,5.28,86.3,Medium,Yes,5.5,2,No,4.3,Good
+STU0583,Student 583,R2020583,Male,22,Civil,6,5.4,87.2,76.1,7.59,72.1,Medium,Yes,6.1,3,No,5.6,Excellent
+STU0584,Student 584,R2020584,Female,18,IT,4,5.2,74.2,78.3,5.93,75.6,Low,Yes,6.4,2,Yes,5.2,Good
+STU0585,Student 585,R2020585,Male,18,Electronics,3,3.8,65.8,71.7,6.58,64.0,Medium,No,5.3,1,Yes,3.9,Average
+STU0586,Student 586,R2020586,Female,19,Electronics,1,7.7,80.1,53.8,6.16,58.1,Medium,Yes,5.3,5,No,7.1,Good
+STU0587,Student 587,R2020587,Male,21,Civil,5,2.9,82.6,66.3,7.52,45.2,Medium,Yes,6.2,7,Yes,9.6,Average
+STU0588,Student 588,R2020588,Male,18,Mechanical,6,0.6,86.8,71.9,8.72,60.0,High,Yes,4.1,1,Yes,4.9,Good
+STU0589,Student 589,R2020589,Male,21,Electronics,5,4.3,82.2,72.1,7.59,62.5,Low,Yes,7.2,6,No,5.6,Good
+STU0590,Student 590,R2020590,Male,20,IT,8,3.3,74.6,63.8,6.28,69.5,Medium,Yes,7.4,1,No,7.2,Average
+STU0591,Student 591,R2020591,Female,20,Mechanical,5,4.9,53.6,69.2,6.35,88.0,Medium,Yes,6.9,3,Yes,7.6,Good
+STU0592,Student 592,R2020592,Female,20,Electrical,7,5.2,43.1,34.5,5.47,67.2,Medium,Yes,8.3,7,No,4.9,Poor
+STU0593,Student 593,R2020593,Female,21,Electrical,4,5.8,78.1,53.8,8.27,60.9,Low,No,4.8,10,Yes,8.6,Average
+STU0594,Student 594,R2020594,Female,18,Electronics,4,2.6,88.3,66.6,6.4,80.5,High,Yes,6.0,10,Yes,3.9,Poor
+STU0595,Student 595,R2020595,Male,19,Electrical,7,6.3,63.9,64.1,5.9,34.8,Low,Yes,6.7,3,Yes,6.1,Average
+STU0596,Student 596,R2020596,Male,18,Electronics,8,2.6,81.1,81.9,6.62,59.6,High,Yes,6.7,8,No,7.2,Poor
+STU0597,Student 597,R2020597,Male,21,Civil,4,6.0,84.0,68.1,7.25,48.4,High,No,5.3,4,No,6.2,Excellent
+STU0598,Student 598,R2020598,Female,21,Electrical,2,3.8,59.6,23.6,4.61,40.0,Medium,Yes,6.8,9,No,10.0,Poor
+STU0599,Student 599,R2020599,Male,20,Computer Science,4,1.8,48.1,73.4,8.38,26.3,High,Yes,5.5,7,No,8.8,Poor
+STU0600,Student 600,R2020600,Female,19,Civil,1,6.7,59.6,93.0,6.98,64.1,Low,Yes,6.6,1,Yes,5.5,Excellent
+STU0601,Student 601,R2020601,Female,22,Electrical,5,1.9,88.8,85.7,9.04,72.2,Medium,No,6.0,8,No,6.5,Average
+STU0602,Student 602,R2020602,Male,19,IT,5,1.7,78.1,59.4,8.34,50.7,High,No,5.5,5,No,7.9,Average
+STU0603,Student 603,R2020603,Male,21,Civil,4,6.4,53.4,64.9,9.67,50.5,Low,Yes,4.3,10,Yes,2.0,Average
+STU0604,Student 604,R2020604,Male,18,Civil,2,5.2,75.9,75.5,6.77,81.2,Low,Yes,6.5,7,No,6.8,Good
+STU0605,Student 605,R2020605,Male,21,Electrical,1,3.7,71.1,81.4,8.56,75.8,Medium,Yes,7.6,4,Yes,8.5,Good
+STU0606,Student 606,R2020606,Female,19,Computer Science,2,3.7,64.9,78.6,5.95,66.1,Low,Yes,5.1,6,No,5.2,Average
+STU0607,Student 607,R2020607,Female,20,Mechanical,6,4.8,81.6,79.2,6.76,66.5,Medium,Yes,6.2,5,No,6.5,Average
+STU0608,Student 608,R2020608,Male,18,IT,2,2.9,90.9,48.3,7.56,41.4,Medium,Yes,8.0,9,Yes,2.4,Poor
+STU0609,Student 609,R2020609,Female,19,IT,1,4.8,67.3,72.9,8.14,76.9,Medium,Yes,6.5,4,Yes,7.9,Average
+STU0610,Student 610,R2020610,Male,18,Mechanical,5,3.0,95.7,78.9,5.98,57.9,Medium,Yes,7.8,1,No,5.5,Good
+STU0611,Student 611,R2020611,Female,20,IT,2,6.5,78.8,85.2,7.85,49.8,High,No,7.5,3,No,5.1,Good
+STU0612,Student 612,R2020612,Female,22,Computer Science,5,5.2,100.0,100.0,7.1,7.5,Low,Yes,8.0,8,Yes,3.6,Excellent
+STU0613,Student 613,R2020613,Female,21,IT,3,2.1,82.8,84.3,7.83,53.2,High,Yes,5.3,2,Yes,6.8,Average
+STU0614,Student 614,R2020614,Male,20,Civil,2,6.0,68.5,67.9,8.19,61.2,Low,Yes,6.8,2,No,4.6,Excellent
+STU0615,Student 615,R2020615,Male,21,Electrical,8,4.3,86.9,60.7,6.44,51.5,Medium,No,5.5,9,Yes,2.9,Average
+STU0616,Student 616,R2020616,Female,19,IT,2,1.1,74.2,72.7,6.95,75.7,Medium,No,10.0,7,No,6.7,Average
+STU0617,Student 617,R2020617,Male,20,Electronics,6,6.0,81.2,70.2,7.35,57.2,Low,Yes,8.6,4,No,4.3,Excellent
+STU0618,Student 618,R2020618,Male,22,IT,1,4.3,86.2,58.0,5.97,69.7,Low,Yes,5.3,6,Yes,8.1,Average
+STU0619,Student 619,R2020619,Male,18,IT,7,2.9,80.6,86.4,6.21,72.8,Medium,Yes,5.5,5,No,9.3,Good
+STU0620,Student 620,R2020620,Female,20,IT,4,0.5,56.9,81.9,8.91,66.9,Medium,Yes,5.8,3,No,8.5,Average
+STU0621,Student 621,R2020621,Female,21,Computer Science,4,2.0,61.6,92.6,8.96,42.8,Medium,Yes,6.5,3,No,9.0,Average
+STU0622,Student 622,R2020622,Male,20,IT,2,4.1,73.2,77.0,7.01,100.0,Medium,Yes,8.3,2,Yes,3.3,Good
+STU0623,Student 623,R2020623,Male,20,Civil,6,3.2,88.4,68.3,5.48,61.1,Low,Yes,8.9,3,No,6.8,Average
+STU0624,Student 624,R2020624,Female,20,Electronics,1,3.3,78.0,59.6,6.3,59.2,Medium,Yes,6.7,9,No,5.6,Average
+STU0625,Student 625,R2020625,Male,22,IT,6,5.0,83.4,99.4,7.31,59.2,Medium,Yes,5.4,8,Yes,5.5,Good
+STU0626,Student 626,R2020626,Male,21,Electronics,1,4.2,95.4,76.9,5.1,89.5,Low,Yes,6.9,4,No,9.1,Good
+STU0627,Student 627,R2020627,Female,20,Computer Science,2,3.9,91.6,81.6,7.24,69.9,Medium,Yes,6.9,4,Yes,2.5,Good
+STU0628,Student 628,R2020628,Female,19,Electronics,2,4.2,100.0,65.8,9.18,45.9,Low,Yes,7.5,7,No,4.7,Average
+STU0629,Student 629,R2020629,Male,20,Civil,3,5.0,100.0,76.8,7.72,61.4,Low,Yes,5.5,8,Yes,5.4,Good
+STU0630,Student 630,R2020630,Female,22,Electrical,8,4.0,85.1,63.1,8.82,61.5,Low,No,4.9,5,No,8.4,Average
+STU0631,Student 631,R2020631,Male,19,Mechanical,1,2.4,69.3,58.5,7.95,80.1,Medium,Yes,6.5,8,No,6.1,Average
+STU0632,Student 632,R2020632,Male,19,Civil,7,1.1,96.1,84.7,6.11,41.9,Low,Yes,6.4,4,Yes,5.5,Average
+STU0633,Student 633,R2020633,Female,21,Civil,7,4.1,59.7,88.4,5.76,82.5,Low,Yes,5.4,10,Yes,4.4,Good
+STU0634,Student 634,R2020634,Female,22,Electrical,1,2.2,88.4,83.0,8.57,38.3,Medium,Yes,7.8,9,No,5.4,Average
+STU0635,Student 635,R2020635,Female,22,Civil,5,3.4,37.1,72.1,4.45,48.9,Medium,Yes,4.8,9,Yes,4.1,Poor
+STU0636,Student 636,R2020636,Female,22,Electrical,8,3.7,75.5,60.0,4.74,83.4,Low,Yes,5.7,6,No,6.2,Average
+STU0637,Student 637,R2020637,Female,21,Mechanical,4,4.7,51.9,64.5,8.41,45.5,Low,No,5.6,3,Yes,7.9,Good
+STU0638,Student 638,R2020638,Female,21,Electronics,3,4.1,100.0,76.2,8.53,58.5,Medium,Yes,6.1,9,No,6.6,Good
+STU0639,Student 639,R2020639,Male,19,Computer Science,8,3.3,87.9,88.9,7.27,29.7,Medium,Yes,6.5,5,No,6.5,Average
+STU0640,Student 640,R2020640,Female,19,Computer Science,4,4.0,64.2,41.2,7.56,67.6,Medium,Yes,5.8,10,No,7.3,Poor
+STU0641,Student 641,R2020641,Male,21,Electrical,3,7.1,49.9,54.9,6.43,87.0,Medium,Yes,7.1,10,No,8.5,Average
+STU0642,Student 642,R2020642,Male,18,Electronics,8,5.1,92.9,96.6,7.25,36.3,Low,Yes,6.4,5,No,3.7,Good
+STU0643,Student 643,R2020643,Female,19,Mechanical,4,2.7,78.8,78.4,6.14,72.1,Medium,Yes,6.5,4,Yes,5.4,Good
+STU0644,Student 644,R2020644,Female,20,Civil,5,1.0,100.0,91.0,7.35,62.8,Low,Yes,6.5,7,Yes,8.5,Average
+STU0645,Student 645,R2020645,Male,20,Electronics,7,4.6,54.7,70.3,5.5,72.3,Medium,Yes,7.7,2,Yes,6.5,Average
+STU0646,Student 646,R2020646,Female,19,IT,7,1.5,53.4,69.8,7.94,49.6,Medium,Yes,7.5,10,Yes,8.3,Average
+STU0647,Student 647,R2020647,Female,18,Civil,1,3.4,90.6,78.1,7.58,71.4,Medium,Yes,4.6,10,No,6.5,Average
+STU0648,Student 648,R2020648,Male,20,IT,3,4.9,73.3,63.7,3.95,66.0,Low,No,7.9,7,No,0.2,Poor
+STU0649,Student 649,R2020649,Female,18,Computer Science,1,6.9,69.8,53.4,7.83,91.2,High,Yes,7.3,2,No,5.8,Average
+STU0650,Student 650,R2020650,Female,18,Electronics,5,4.7,65.7,91.3,4.81,79.4,Low,No,7.5,6,Yes,3.6,Good
+STU0651,Student 651,R2020651,Male,19,Mechanical,1,4.7,74.7,68.2,6.83,69.4,Medium,Yes,4.2,3,Yes,9.0,Average
+STU0652,Student 652,R2020652,Female,21,Electrical,8,3.4,81.4,86.2,8.38,78.1,Medium,Yes,7.6,3,No,5.7,Good
+STU0653,Student 653,R2020653,Male,21,IT,8,4.6,84.6,95.2,5.97,67.5,Medium,Yes,6.2,1,No,8.3,Good
+STU0654,Student 654,R2020654,Female,21,Computer Science,4,6.9,80.6,99.0,6.49,57.0,Medium,Yes,5.0,5,No,3.8,Average
+STU0655,Student 655,R2020655,Female,19,Mechanical,3,2.3,48.3,87.1,5.41,83.3,Low,Yes,5.8,5,No,5.6,Poor
+STU0656,Student 656,R2020656,Male,18,Electrical,8,1.1,96.5,92.9,6.61,70.3,Low,Yes,6.3,1,Yes,7.7,Good
+STU0657,Student 657,R2020657,Male,19,IT,6,1.4,83.9,77.6,6.21,92.4,Low,Yes,5.0,10,No,3.2,Poor
+STU0658,Student 658,R2020658,Male,18,IT,3,4.9,61.5,45.5,8.5,48.0,Medium,No,5.6,7,No,3.8,Average
+STU0659,Student 659,R2020659,Male,22,Computer Science,4,5.3,70.8,72.9,4.33,87.6,Medium,No,4.6,6,No,4.0,Average
+STU0660,Student 660,R2020660,Female,19,Electrical,8,3.1,87.4,100.0,6.02,40.0,Low,Yes,4.1,10,No,3.8,Average
+STU0661,Student 661,R2020661,Male,20,IT,5,1.7,100.0,90.1,5.32,68.2,Low,Yes,8.0,6,No,4.1,Average
+STU0662,Student 662,R2020662,Female,21,Mechanical,4,5.0,68.9,42.7,6.52,79.7,Medium,Yes,6.0,5,No,2.1,Good
+STU0663,Student 663,R2020663,Female,22,IT,3,4.3,96.2,56.8,5.98,45.0,Medium,Yes,7.0,7,Yes,6.3,Average
+STU0664,Student 664,R2020664,Male,20,Electrical,5,5.3,56.5,83.5,7.89,51.8,High,Yes,5.5,8,Yes,6.3,Average
+STU0665,Student 665,R2020665,Male,21,IT,3,0.9,89.6,100.0,7.51,48.7,Medium,Yes,6.4,4,Yes,3.3,Good
+STU0666,Student 666,R2020666,Male,18,Civil,7,6.5,76.3,61.6,8.36,72.6,Medium,Yes,7.4,1,No,7.8,Excellent
+STU0667,Student 667,R2020667,Male,18,IT,6,2.6,85.2,47.8,7.83,69.3,Medium,Yes,6.2,8,No,7.8,Average
+STU0668,Student 668,R2020668,Male,20,Mechanical,4,3.5,73.8,70.5,8.32,84.4,Low,Yes,7.0,7,No,8.9,Good
+STU0669,Student 669,R2020669,Male,20,IT,3,5.5,65.2,79.6,6.93,74.4,High,Yes,6.2,10,No,5.2,Average
+STU0670,Student 670,R2020670,Male,20,Electrical,4,2.8,69.4,97.9,6.42,89.0,Low,Yes,7.6,4,No,6.7,Good
+STU0671,Student 671,R2020671,Male,22,Civil,2,6.1,100.0,64.7,8.04,76.5,Medium,Yes,7.8,9,No,8.4,Good
+STU0672,Student 672,R2020672,Male,22,Electronics,5,5.8,77.6,67.8,8.06,62.7,High,Yes,6.6,8,No,9.6,Excellent
+STU0673,Student 673,R2020673,Male,20,Electrical,2,3.4,55.2,67.5,7.3,88.9,Medium,Yes,8.5,4,No,7.7,Average
+STU0674,Student 674,R2020674,Male,21,IT,5,5.5,100.0,64.9,9.18,56.2,High,Yes,8.2,7,Yes,6.3,Good
+STU0675,Student 675,R2020675,Male,21,Civil,6,8.6,60.4,77.7,5.54,50.7,Low,No,4.6,5,Yes,3.9,Good
+STU0676,Student 676,R2020676,Female,19,Civil,3,4.6,73.2,52.4,7.29,67.4,Medium,Yes,6.5,1,No,8.2,Poor
+STU0677,Student 677,R2020677,Female,21,Mechanical,2,2.1,54.4,73.4,9.09,62.9,Medium,Yes,6.9,10,Yes,6.0,Average
+STU0678,Student 678,R2020678,Male,22,Computer Science,1,4.6,88.4,83.3,4.36,58.1,Medium,Yes,5.3,2,No,3.5,Average
+STU0679,Student 679,R2020679,Male,20,Civil,5,5.4,84.3,98.0,7.55,92.7,High,Yes,7.1,8,No,3.6,Good
+STU0680,Student 680,R2020680,Male,21,Electronics,7,6.9,88.2,73.8,8.79,32.1,Medium,No,4.8,6,No,9.4,Excellent
+STU0681,Student 681,R2020681,Female,21,IT,8,6.2,100.0,78.7,7.36,42.2,High,Yes,5.9,4,Yes,8.1,Average
+STU0682,Student 682,R2020682,Male,22,IT,2,7.2,80.3,69.5,6.86,66.5,Medium,Yes,7.2,10,Yes,6.6,Good
+STU0683,Student 683,R2020683,Female,21,IT,7,4.1,93.7,83.4,7.04,61.6,High,Yes,4.1,2,Yes,3.9,Good
+STU0684,Student 684,R2020684,Female,18,Mechanical,3,3.1,94.8,66.0,8.52,77.1,Low,Yes,6.2,9,Yes,4.3,Average
+STU0685,Student 685,R2020685,Female,18,Computer Science,4,4.8,96.4,55.2,10.0,60.7,Medium,Yes,4.4,8,No,7.2,Good
+STU0686,Student 686,R2020686,Male,22,Electrical,4,5.9,88.6,75.3,8.72,64.0,Medium,Yes,6.2,2,No,8.1,Good
+STU0687,Student 687,R2020687,Male,19,Electrical,4,2.9,76.6,72.5,5.37,58.3,Medium,No,7.9,10,No,4.8,Average
+STU0688,Student 688,R2020688,Female,21,Computer Science,3,4.6,85.0,56.8,6.6,68.0,Medium,Yes,5.3,2,Yes,2.5,Average
+STU0689,Student 689,R2020689,Female,18,IT,2,3.3,81.3,100.0,6.51,56.8,High,No,5.5,7,Yes,7.6,Average
+STU0690,Student 690,R2020690,Female,22,Civil,3,2.2,77.8,60.9,6.46,72.2,High,Yes,6.7,2,Yes,6.1,Average
+STU0691,Student 691,R2020691,Female,20,Computer Science,5,2.7,75.7,59.0,8.1,54.0,High,Yes,6.1,10,Yes,6.5,Average
+STU0692,Student 692,R2020692,Male,20,Electronics,7,2.8,64.0,35.2,5.31,78.0,Medium,Yes,8.3,3,No,6.7,Average
+STU0693,Student 693,R2020693,Male,21,Electrical,1,5.2,79.8,69.3,8.09,53.0,High,No,6.5,8,No,3.3,Good
+STU0694,Student 694,R2020694,Male,21,Computer Science,3,2.6,68.1,76.9,5.62,71.3,Low,Yes,7.5,4,No,4.9,Average
+STU0695,Student 695,R2020695,Female,21,Civil,8,7.5,64.7,91.2,6.89,63.1,Low,Yes,4.7,1,Yes,7.8,Good
+STU0696,Student 696,R2020696,Female,22,Mechanical,3,3.1,69.1,100.0,7.79,75.7,Medium,No,5.6,6,No,5.4,Good
+STU0697,Student 697,R2020697,Male,19,IT,2,4.9,87.9,80.0,8.19,57.8,Low,Yes,7.3,1,No,4.9,Excellent
+STU0698,Student 698,R2020698,Female,22,Electronics,4,2.2,80.4,42.6,7.63,74.9,High,Yes,7.4,1,No,6.1,Average
+STU0699,Student 699,R2020699,Female,21,Mechanical,1,6.0,57.0,70.2,8.74,79.6,Medium,Yes,6.9,4,Yes,4.8,Good
+STU0700,Student 700,R2020700,Male,21,Computer Science,6,6.1,100.0,63.8,4.4,61.4,Medium,Yes,4.6,7,Yes,4.4,Excellent
+STU0701,Student 701,R2020701,Female,20,Mechanical,4,2.4,88.5,72.2,5.85,71.6,High,Yes,7.4,2,No,7.3,Average
+STU0702,Student 702,R2020702,Female,22,Computer Science,6,3.9,72.4,86.7,5.61,53.3,Low,Yes,6.6,5,No,4.3,Average
+STU0703,Student 703,R2020703,Male,21,Mechanical,1,5.6,66.3,58.5,6.43,60.7,Low,Yes,5.7,3,No,5.1,Good
+STU0704,Student 704,R2020704,Male,22,Electronics,4,2.2,69.4,45.3,9.63,77.9,Low,Yes,5.5,9,No,6.2,Average
+STU0705,Student 705,R2020705,Male,22,Civil,5,5.0,92.9,46.4,8.83,72.0,Medium,Yes,6.4,4,Yes,7.8,Good
+STU0706,Student 706,R2020706,Female,19,IT,6,6.0,59.6,73.1,6.73,67.4,High,Yes,8.3,2,No,5.4,Good
+STU0707,Student 707,R2020707,Female,19,Electronics,8,5.0,60.5,96.5,4.58,54.7,Medium,Yes,6.4,6,Yes,1.7,Average
+STU0708,Student 708,R2020708,Female,22,Mechanical,6,1.2,81.7,77.8,8.5,72.8,Medium,Yes,5.0,3,No,3.8,Average
+STU0709,Student 709,R2020709,Male,19,Mechanical,7,4.5,85.1,36.8,7.33,44.1,Low,Yes,5.9,6,No,9.7,Good
+STU0710,Student 710,R2020710,Female,19,Mechanical,4,6.3,49.3,78.7,7.09,63.0,Low,Yes,5.7,7,No,6.4,Average
+STU0711,Student 711,R2020711,Male,19,Computer Science,7,0.4,87.8,83.5,6.29,41.0,Medium,Yes,6.0,3,Yes,6.7,Average
+STU0712,Student 712,R2020712,Male,18,Mechanical,2,2.5,73.4,100.0,6.14,76.6,Medium,No,5.9,4,No,6.4,Good
+STU0713,Student 713,R2020713,Female,19,Electrical,2,6.5,76.2,85.1,7.97,55.6,Medium,No,4.0,8,No,6.8,Average
+STU0714,Student 714,R2020714,Female,19,IT,4,2.0,67.6,82.0,8.59,67.9,Medium,Yes,5.4,5,No,5.6,Average
+STU0715,Student 715,R2020715,Male,18,Computer Science,8,2.7,100.0,66.2,7.81,68.4,Medium,Yes,4.1,10,Yes,7.6,Excellent
+STU0716,Student 716,R2020716,Male,22,Civil,5,0.9,72.3,92.7,4.96,59.3,Medium,Yes,7.0,7,No,5.4,Poor
+STU0717,Student 717,R2020717,Female,20,Electrical,2,6.3,74.6,78.2,7.83,77.1,High,Yes,6.5,5,No,6.4,Excellent
+STU0718,Student 718,R2020718,Male,21,Computer Science,7,5.3,58.2,92.0,7.09,48.7,Low,Yes,6.5,9,Yes,5.7,Average
+STU0719,Student 719,R2020719,Male,20,Computer Science,7,0.2,47.2,84.8,6.41,46.5,Low,Yes,5.7,9,No,5.4,Poor
+STU0720,Student 720,R2020720,Female,19,Civil,8,6.0,87.5,77.9,8.97,71.3,Medium,Yes,8.1,7,Yes,5.2,Good
+STU0721,Student 721,R2020721,Female,22,Civil,1,3.8,72.6,61.1,7.35,67.8,Medium,Yes,7.0,1,No,7.1,Good
+STU0722,Student 722,R2020722,Female,19,Mechanical,4,4.8,59.2,65.1,8.49,78.1,Medium,Yes,6.2,10,Yes,0.4,Average
+STU0723,Student 723,R2020723,Female,22,Mechanical,8,2.0,63.9,79.2,6.98,60.1,Medium,Yes,7.4,10,No,3.8,Average
+STU0724,Student 724,R2020724,Male,22,Electrical,3,2.4,45.8,72.8,6.64,90.6,Medium,Yes,7.3,1,No,4.5,Average
+STU0725,Student 725,R2020725,Male,19,Mechanical,7,3.9,80.2,62.5,7.43,68.9,High,Yes,4.7,2,No,5.0,Good
+STU0726,Student 726,R2020726,Male,20,Computer Science,4,3.1,80.0,58.9,7.44,58.1,Low,Yes,7.8,5,No,6.2,Average
+STU0727,Student 727,R2020727,Male,18,Electronics,6,4.7,88.8,69.5,7.29,70.3,Medium,Yes,4.5,1,No,6.8,Good
+STU0728,Student 728,R2020728,Female,21,Computer Science,7,6.3,52.8,79.0,4.82,97.8,Medium,Yes,7.1,3,Yes,5.5,Good
+STU0729,Student 729,R2020729,Female,19,Computer Science,3,5.8,93.6,100.0,7.55,67.8,Low,Yes,7.1,10,No,2.9,Excellent
+STU0730,Student 730,R2020730,Female,19,Electrical,4,3.5,77.4,59.2,5.12,67.8,Medium,Yes,6.4,10,No,6.7,Poor
+STU0731,Student 731,R2020731,Male,21,Computer Science,7,5.3,72.8,66.4,8.18,58.7,Medium,Yes,5.9,3,No,8.4,Good
+STU0732,Student 732,R2020732,Male,19,IT,1,4.3,62.6,98.5,8.04,47.5,Medium,Yes,7.7,4,No,4.7,Average
+STU0733,Student 733,R2020733,Male,19,IT,2,2.5,87.6,65.4,6.8,75.3,High,Yes,5.7,2,Yes,7.4,Good
+STU0734,Student 734,R2020734,Male,18,Electrical,6,5.1,84.6,83.0,5.6,66.7,Medium,No,6.5,3,No,3.2,Average
+STU0735,Student 735,R2020735,Male,20,IT,7,4.6,77.7,100.0,5.23,48.4,Low,Yes,8.6,7,Yes,3.6,Good
+STU0736,Student 736,R2020736,Male,18,Electrical,2,0.4,97.0,56.3,6.45,82.7,Low,No,6.7,5,No,3.1,Average
+STU0737,Student 737,R2020737,Male,22,Electrical,5,6.0,97.3,74.4,8.48,58.8,Medium,Yes,5.6,6,No,8.8,Excellent
+STU0738,Student 738,R2020738,Male,20,Electronics,6,5.4,62.1,71.5,8.06,75.9,Low,Yes,7.6,9,No,2.1,Average
+STU0739,Student 739,R2020739,Male,22,Computer Science,3,4.1,70.7,62.5,6.7,75.3,Low,Yes,7.2,8,No,10.0,Average
+STU0740,Student 740,R2020740,Male,20,Electronics,7,1.7,51.2,66.5,9.34,95.3,Low,Yes,8.7,6,Yes,5.4,Poor
+STU0741,Student 741,R2020741,Male,18,Computer Science,4,2.4,64.5,78.8,7.91,70.9,Medium,No,5.3,4,No,4.3,Average
+STU0742,Student 742,R2020742,Male,18,Electrical,1,3.6,72.0,84.9,4.58,57.5,Low,Yes,6.2,9,No,9.0,Average
+STU0743,Student 743,R2020743,Male,19,Civil,8,5.4,62.6,72.4,6.64,68.8,Low,Yes,7.8,5,No,4.0,Average
+STU0744,Student 744,R2020744,Female,22,Electronics,7,2.8,89.7,99.6,8.31,54.6,Medium,Yes,8.9,1,Yes,3.0,Good
+STU0745,Student 745,R2020745,Female,18,Electrical,4,6.2,67.2,90.0,5.98,52.3,Medium,Yes,7.5,7,No,4.6,Average
+STU0746,Student 746,R2020746,Female,20,IT,3,2.7,100.0,98.2,7.79,85.4,Medium,Yes,6.6,4,Yes,8.0,Good
+STU0747,Student 747,R2020747,Male,19,Computer Science,2,5.1,69.5,72.5,9.19,67.0,Medium,Yes,5.9,7,No,3.9,Good
+STU0748,Student 748,R2020748,Male,20,Electrical,1,2.5,78.7,80.6,8.44,65.1,Medium,Yes,5.9,1,No,4.0,Average
+STU0749,Student 749,R2020749,Male,19,Computer Science,3,4.2,88.2,75.9,6.41,55.2,Medium,Yes,8.1,8,No,5.1,Average
+STU0750,Student 750,R2020750,Male,18,Civil,3,4.3,71.7,69.0,8.39,60.6,Medium,Yes,7.0,3,Yes,1.4,Good
+STU0751,Student 751,R2020751,Male,20,Civil,4,3.7,83.2,95.4,5.86,47.4,Medium,Yes,7.0,2,Yes,7.4,Excellent
+STU0752,Student 752,R2020752,Male,19,IT,7,3.9,75.0,91.6,8.42,91.7,Medium,No,5.7,6,No,5.8,Good
+STU0753,Student 753,R2020753,Female,18,Electrical,3,1.3,58.1,68.8,5.0,90.1,Medium,Yes,6.3,8,No,5.9,Poor
+STU0754,Student 754,R2020754,Female,22,Electronics,7,3.5,76.2,82.1,3.46,67.5,Low,Yes,5.1,9,No,4.3,Poor
+STU0755,Student 755,R2020755,Female,21,Electronics,7,1.9,100.0,53.4,7.37,67.3,Medium,Yes,6.6,1,No,3.7,Average
+STU0756,Student 756,R2020756,Male,18,Electrical,1,3.9,61.1,64.9,10.0,73.9,Low,Yes,7.8,6,Yes,7.0,Good
+STU0757,Student 757,R2020757,Male,19,IT,5,4.0,86.0,83.0,3.79,55.1,Low,Yes,7.9,7,No,6.2,Average
+STU0758,Student 758,R2020758,Male,21,Civil,3,7.6,63.2,83.3,9.58,74.8,High,Yes,5.6,9,Yes,5.5,Good
+STU0759,Student 759,R2020759,Male,20,Computer Science,3,0.3,97.8,73.3,9.38,38.6,High,Yes,4.4,4,Yes,5.3,Average
+STU0760,Student 760,R2020760,Male,18,Civil,7,6.6,100.0,83.2,7.78,67.0,High,No,7.7,10,No,7.3,Good
+STU0761,Student 761,R2020761,Male,20,IT,6,6.0,78.3,69.6,5.18,63.4,Medium,Yes,7.3,4,Yes,7.4,Average
+STU0762,Student 762,R2020762,Female,21,Electronics,3,6.3,90.9,65.1,7.11,57.0,Low,Yes,5.5,9,No,5.5,Good
+STU0763,Student 763,R2020763,Female,19,Civil,5,6.1,75.4,52.4,8.09,90.3,High,No,5.7,4,No,6.8,Good
+STU0764,Student 764,R2020764,Male,22,Electronics,4,6.9,70.7,55.0,7.82,77.0,High,Yes,6.5,6,Yes,5.0,Good
+STU0765,Student 765,R2020765,Male,19,Mechanical,4,3.8,67.9,86.4,6.64,59.7,Medium,Yes,5.6,6,Yes,5.5,Average
+STU0766,Student 766,R2020766,Female,19,Civil,4,3.2,76.3,72.8,7.66,59.5,Medium,Yes,6.0,4,No,5.9,Average
+STU0767,Student 767,R2020767,Female,21,Electrical,6,5.1,88.5,100.0,8.2,59.0,Low,No,4.7,7,Yes,4.0,Average
+STU0768,Student 768,R2020768,Male,18,Computer Science,7,5.6,66.4,95.7,5.94,96.4,Medium,No,4.2,8,Yes,5.5,Good
+STU0769,Student 769,R2020769,Female,22,Electronics,5,3.0,79.3,51.1,7.8,78.0,Low,Yes,5.7,9,Yes,9.2,Good
+STU0770,Student 770,R2020770,Female,21,Electrical,5,5.9,74.1,77.7,5.29,67.1,High,Yes,7.1,8,No,4.5,Average
+STU0771,Student 771,R2020771,Male,22,Mechanical,6,4.4,77.1,62.7,9.11,57.1,Low,Yes,5.1,8,No,5.7,Average
+STU0772,Student 772,R2020772,Male,21,IT,5,5.3,91.4,55.3,9.04,57.3,Medium,Yes,5.8,8,No,7.0,Excellent
+STU0773,Student 773,R2020773,Male,19,Mechanical,7,3.3,79.7,76.3,6.05,68.7,Medium,Yes,5.0,10,No,8.0,Good
+STU0774,Student 774,R2020774,Male,20,Mechanical,5,0.8,43.0,80.5,6.83,70.6,Medium,Yes,8.7,7,No,4.8,Poor
+STU0775,Student 775,R2020775,Male,19,Mechanical,2,0.9,81.1,95.5,8.25,80.4,Low,Yes,5.5,10,No,6.3,Average
+STU0776,Student 776,R2020776,Female,20,Electrical,3,5.6,87.5,62.9,5.03,78.2,High,Yes,9.0,6,No,5.0,Good
+STU0777,Student 777,R2020777,Male,21,IT,6,2.9,75.2,100.0,9.59,32.6,Low,Yes,6.6,1,Yes,6.0,Average
+STU0778,Student 778,R2020778,Male,20,Civil,6,3.6,80.8,81.4,8.13,58.5,High,Yes,5.9,2,Yes,7.6,Good
+STU0779,Student 779,R2020779,Male,19,Electronics,2,3.7,90.9,67.8,5.12,56.2,Low,Yes,6.9,2,Yes,4.3,Good
+STU0780,Student 780,R2020780,Male,18,Computer Science,5,6.6,68.0,75.7,7.94,40.0,Medium,Yes,5.2,1,Yes,2.0,Good
+STU0781,Student 781,R2020781,Female,20,Electronics,6,1.7,72.9,66.3,5.87,77.2,Low,Yes,5.2,2,Yes,6.7,Poor
+STU0782,Student 782,R2020782,Female,20,Electronics,2,2.7,100.0,81.2,7.7,67.6,Low,Yes,5.8,8,No,2.8,Average
+STU0783,Student 783,R2020783,Male,19,Mechanical,8,4.8,93.3,77.7,6.32,61.7,High,Yes,7.4,10,No,6.4,Average
+STU0784,Student 784,R2020784,Female,21,Civil,6,0.5,79.8,54.8,6.77,65.0,Low,Yes,9.2,7,No,7.8,Average
+STU0785,Student 785,R2020785,Male,20,Computer Science,2,7.6,68.8,74.9,6.15,49.6,High,Yes,5.1,7,No,3.9,Average
+STU0786,Student 786,R2020786,Male,18,Computer Science,8,0.8,84.7,67.1,5.48,55.7,High,No,8.8,1,Yes,3.9,Poor
+STU0787,Student 787,R2020787,Male,21,Electronics,2,6.3,89.4,89.9,10.0,69.2,High,Yes,8.2,9,No,6.2,Excellent
+STU0788,Student 788,R2020788,Female,19,Electronics,8,3.1,100.0,47.3,6.32,46.9,Medium,Yes,7.0,2,Yes,8.4,Poor
+STU0789,Student 789,R2020789,Female,21,Mechanical,1,2.0,100.0,67.7,4.12,52.4,Medium,No,5.0,3,No,5.4,Average
+STU0790,Student 790,R2020790,Male,18,Electrical,6,4.3,73.6,100.0,7.13,35.6,Low,Yes,6.2,4,No,8.7,Average
+STU0791,Student 791,R2020791,Male,19,IT,1,1.5,82.0,70.8,7.65,44.8,Medium,Yes,6.1,6,No,2.0,Poor
+STU0792,Student 792,R2020792,Female,20,Computer Science,6,6.1,84.4,96.0,6.73,64.4,Medium,Yes,4.5,6,Yes,5.0,Good
+STU0793,Student 793,R2020793,Female,18,Electronics,2,2.9,76.9,78.9,4.54,42.1,Medium,Yes,4.7,4,No,7.1,Poor
+STU0794,Student 794,R2020794,Male,20,Electronics,6,4.2,75.5,75.2,7.32,48.6,Medium,No,7.4,5,No,7.5,Good
+STU0795,Student 795,R2020795,Male,18,Civil,6,3.6,67.3,60.4,7.96,50.1,Low,Yes,7.1,2,No,4.8,Good
+STU0796,Student 796,R2020796,Female,19,Civil,3,3.2,72.3,75.7,5.1,83.3,Low,No,7.7,3,Yes,5.6,Good
+STU0797,Student 797,R2020797,Male,19,Electrical,7,4.5,74.4,51.6,5.12,68.3,High,Yes,7.2,7,No,5.4,Average
+STU0798,Student 798,R2020798,Male,21,Electronics,1,5.1,69.7,56.4,6.48,60.5,Medium,Yes,6.7,5,No,5.7,Poor
+STU0799,Student 799,R2020799,Female,18,Electronics,7,5.1,77.2,73.9,7.09,100.0,Medium,Yes,8.6,3,No,9.4,Good
+STU0800,Student 800,R2020800,Female,19,Civil,2,3.9,81.3,87.5,6.75,78.9,Medium,Yes,8.4,6,No,7.3,Average

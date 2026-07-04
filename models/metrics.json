@@ -1,0 +1,235 @@
+{
+  "best_model": "Gradient Boosting",
+  "classes": [
+    "Poor",
+    "Average",
+    "Good",
+    "Excellent"
+  ],
+  "results": {
+    "Decision Tree": {
+      "accuracy": 0.41875,
+      "precision": 0.4171761775362318,
+      "recall": 0.41875,
+      "f1_score": 0.41744125630620754,
+      "roc_auc": 0.4979454982817323,
+      "confusion_matrix": [
+        [
+          7,
+          11,
+          1,
+          0
+        ],
+        [
+          10,
+          37,
+          16,
+          6
+        ],
+        [
+          2,
+          21,
+          18,
+          10
+        ],
+        [
+          2,
+          3,
+          11,
+          5
+        ]
+      ],
+      "train_time_sec": 0.006
+    },
+    "Random Forest": {
+      "accuracy": 0.53125,
+      "precision": 0.49281323702830193,
+      "recall": 0.53125,
+      "f1_score": 0.4859374999999999,
+      "roc_auc": 0.44361963806097204,
+      "confusion_matrix": [
+        [
+          1,
+          17,
+          1,
+          0
+        ],
+        [
+          3,
+          55,
+          10,
+          1
+        ],
+        [
+          1,
+          22,
+          26,
+          2
+        ],
+        [
+          0,
+          2,
+          16,
+          3
+        ]
+      ],
+      "train_time_sec": 0.577
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.525,
+      "precision": 0.521943191649577,
+      "recall": 0.525,
+      "f1_score": 0.5181370837808807,
+      "roc_auc": 0.4434780507958126,
+      "confusion_matrix": [
+        [
+          7,
+          10,
+          2,
+          0
+        ],
+        [
+          8,
+          46,
+          14,
+          1
+        ],
+        [
+          1,
+          22,
+          23,
+          5
+        ],
+        [
+          0,
+          5,
+          8,
+          8
+        ]
+      ],
+      "train_time_sec": 1.567
+    },
+    "Logistic Regression": {
+      "accuracy": 0.525,
+      "precision": 0.522081881533101,
+      "recall": 0.525,
+      "f1_score": 0.509083170889306,
+      "roc_auc": 0.4500966778749598,
+      "confusion_matrix": [
+        [
+          4,
+          14,
+          1,
+          0
+        ],
+        [
+          9,
+          48,
+          12,
+          0
+        ],
+        [
+          1,
+          20,
+          27,
+          3
+        ],
+        [
+          0,
+          0,
+          16,
+          5
+        ]
+      ],
+      "train_time_sec": 0.008
+    },
+    "Support Vector Machine": {
+      "accuracy": 0.50625,
+      "precision": 0.4895596915460777,
+      "recall": 0.50625,
+      "f1_score": 0.454016109057514,
+      "roc_auc": 0.4424190187225542,
+      "confusion_matrix": [
+        [
+          1,
+          18,
+          0,
+          0
+        ],
+        [
+          1,
+          54,
+          13,
+          1
+        ],
+        [
+          0,
+          25,
+          24,
+          2
+        ],
+        [
+          0,
+          4,
+          15,
+          2
+        ]
+      ],
+      "train_time_sec": 0.068
+    },
+    "K-Nearest Neighbors": {
+      "accuracy": 0.475,
+      "precision": 0.480529665450849,
+      "recall": 0.475,
+      "f1_score": 0.4258785216220561,
+      "roc_auc": 0.447071992775905,
+      "confusion_matrix": [
+        [
+          1,
+          17,
+          1,
+          0
+        ],
+        [
+          1,
+          55,
+          13,
+          0
+        ],
+        [
+          0,
+          33,
+          15,
+          3
+        ],
+        [
+          0,
+          8,
+          8,
+          5
+        ]
+      ],
+      "train_time_sec": 0.002
+    }
+  },
+  "feature_importance": {
+    "Age": 0.011231847011539904,
+    "Semester": 0.029241132782952647,
+    "Study_Hours": 0.1953611947691019,
+    "Attendance": 0.10846015621717682,
+    "Assignments": 0.06343270258921434,
+    "Previous_GPA": 0.10555678308608943,
+    "Internal_Marks": 0.06501003178780235,
+    "Sleep_Hours": 0.0389331176834155,
+    "Stress_Level": 0.03109518522101328,
+    "Participation": 0.04862510398066295,
+    "Gender": 0.0053123924531992515,
+    "Department": 0.01921812739407741,
+    "Family_Income": 0.01044585076185024,
+    "Internet_Access": 0.0025455560494664345,
+    "Extra_Curricular": 0.002608412147488197,
+    "Study_Attendance_Ratio": 0.08695468685737733,
+    "Academic_Load_Score": 0.10128416264785152,
+    "Wellbeing_Score": 0.07468355655972046
+  }
+}
